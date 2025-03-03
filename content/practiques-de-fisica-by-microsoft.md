@@ -6,7 +6,7 @@ Tags: excel, física, gnumeric, microsoft, UdG
 Slug: practiques-de-fisica-by-microsoft
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />títol de la pràctica: Característica de l’alimentació del port USB. Representació gràfica i ajust lineal
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />títol de la pràctica: Característica de l’alimentació del port USB. Representació gràfica i ajust lineal
 
 en què consisteix *(segons l'anunciat)*: muntar un circuit amb un port USB i una resistència variable (a més d'instruments de mesura) per veure com varia la tensió respecte la intensitat i fer-ne una regressió lineal
 

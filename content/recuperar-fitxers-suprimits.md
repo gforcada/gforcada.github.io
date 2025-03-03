@@ -6,7 +6,7 @@ Tags: consells, GNOME, svn
 Slug: recuperar-fitxers-suprimits
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/01/subversion.png" data-align="right" alt="logotip del Subversion" />Per recuperar fitxers suprimits amb el <a href="http://subversion.tigris.org/" target="_blank" rel="noopener">Subversion</a>:
+<img src="./wp-content/uploads/2008/01/subversion.png" data-align="right" alt="logotip del Subversion" />Per recuperar fitxers suprimits amb el <a href="http://subversion.tigris.org/" target="_blank" rel="noopener">Subversion</a>:
 
 svn --verbose log (per a mirar en el registre quan es va suprimir i per tant saber la revisió anterior a la que es va suprimir per poder-lo recuperar)
 

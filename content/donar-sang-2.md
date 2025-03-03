@@ -6,7 +6,7 @@ Tags: donar sang, participació ciutadana
 Slug: donar-sang-2
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />Des de que vam arribar d'<a href="http://ca.wikipedia.org/wiki/Istanbul" target="_blank" rel="noopener">Istanbul</a> que tenia pendent passar pel <a href="http://www6.gencat.net/ics/trueta/scripts/default.asp" target="_blank" rel="noopener">Trueta</a>, així que avui amb una estoneta, he agafat la bici i cap a donar sang falta gent :)
+<img src="./wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />Des de que vam arribar d'<a href="http://ca.wikipedia.org/wiki/Istanbul" target="_blank" rel="noopener">Istanbul</a> que tenia pendent passar pel <a href="http://www6.gencat.net/ics/trueta/scripts/default.asp" target="_blank" rel="noopener">Trueta</a>, així que avui amb una estoneta, he agafat la bici i cap a donar sang falta gent :)
 
 2 notes:
 

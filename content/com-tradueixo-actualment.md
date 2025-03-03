@@ -25,10 +25,10 @@ D'aquesta manera només haig de moure una mica al ratolí i ja tinc el focus en 
 **Forma de treball**
 
 - Des del terminal actualitzo el git del mòdul que traduiré (canviar de branca si fa falta i tota la pesca)
-- Actualitzo la traducció amb un [script](http://gil.badall.net/wp-content/uploads/2010/09/msgstatus "Script que faig servir per actualitzar la traducció") ("*msgstatus ca*")
+- Actualitzo la traducció amb un [script](./wp-content/uploads/2010/09/msgstatus "Script que faig servir per actualitzar la traducció") ("*msgstatus ca*")
 - Faig la traducció (pas obvi :)
 - Reviso els canvis amb el [Meld](http://meld.sourceforge.net/ "Magnífic programa que permet comparar dos o tres fitxers i fins i tot directoris i que permet enviar canvis cap a una o altra direcció") (entre el fitxer ca.git.po que em crea el msgstatus i el fitxer de la traducció acabada ca.po)
-- Extrec totes les cadenes del català (amb un altre [script](http://gil.badall.net/wp-content/uploads/2010/09/msgstatus "Script que agafa un fitxer po i en crea un altre on només hi ha el text en català"))
+- Extrec totes les cadenes del català (amb un altre [script](./wp-content/uploads/2010/09/msgstatus "Script que agafa un fitxer po i en crea un altre on només hi ha el text en català"))
 - Amb el fitxer (ca.po.tmp) que em crea l'script anterior li passo el  el verificador ortogràfic ([Hunspell](http://en.wikipedia.org/wiki/Hunspell "Entrada a la wikipedia anglesa sobre el verificador ortogràfic Hunspell"))
 - Finalment després de traduir, revisar i passar la verificació ortogràfica pujo el fitxer al Damned-Lies
 

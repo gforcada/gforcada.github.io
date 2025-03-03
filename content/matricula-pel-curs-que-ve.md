@@ -6,7 +6,7 @@ Tags: UdG
 Slug: matricula-pel-curs-que-ve
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />el que havia de ser una visita a la pàgina de la <a href="http://www.udg.cat" target="_blank" rel="noopener">universitat</a> per veure quan m'havia de matricular ha acabat sent el registre, firma i segell (previ pagament com no) de la matrícula pel meu curs vinent
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />el que havia de ser una visita a la pàgina de la <a href="http://www.udg.cat" target="_blank" rel="noopener">universitat</a> per veure quan m'havia de matricular ha acabat sent el registre, firma i segell (previ pagament com no) de la matrícula pel meu curs vinent
 
 al final m'he matriculat per:
 

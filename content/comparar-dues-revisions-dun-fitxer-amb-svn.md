@@ -6,7 +6,7 @@ Tags: consells, svn
 Slug: comparar-dues-revisions-dun-fitxer-amb-svn
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/01/subversion.png" title="logotip del Subversion" class="alignright size-full wp-image-271" width="88" height="64" />Quan encara no heu confirmat uns canvis en un fitxer que està versionat amb svn podeu utilitzar l'ordre *svn status* per saber quins fitxers estan modificats i un *svn diff \$nom_fitxer* per veure el canvis respecte l'última vegada que vau actualitzar el dipòsit amb un *svn up* (o un *svn co \$url*).
+<img src="./wp-content/uploads/2008/01/subversion.png" title="logotip del Subversion" class="alignright size-full wp-image-271" width="88" height="64" />Quan encara no heu confirmat uns canvis en un fitxer que està versionat amb svn podeu utilitzar l'ordre *svn status* per saber quins fitxers estan modificats i un *svn diff \$nom_fitxer* per veure el canvis respecte l'última vegada que vau actualitzar el dipòsit amb un *svn up* (o un *svn co \$url*).
 
 Ara bé, si acabeu de fer la confirmació (*commit*) i voleu agafar-ne el pedaç per aplicar-lo a una altra branca o enviar-lo a algú com ho podeu fer?
 

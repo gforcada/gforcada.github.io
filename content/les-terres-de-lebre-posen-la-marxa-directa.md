@@ -6,7 +6,7 @@ Tags: fibra òptica, fundació guifi, guifi, terres de l'ebre, xerrades
 Slug: les-terres-de-lebre-posen-la-marxa-directa
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Tothom sap que la comunicació via Internet és molt impersonal, que no es poden detectar els matisos, el to, l'energia en que un s'expressa, per això és tant important la comunicació real ((Sí, encara hi ha gent que fa això de trobar-se físicament :D)).
+[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Tothom sap que la comunicació via Internet és molt impersonal, que no es poden detectar els matisos, el to, l'energia en que un s'expressa, per això és tant important la comunicació real ((Sí, encara hi ha gent que fa això de trobar-se físicament :D)).
 
 I precisament aquests matisos, tons i energies en que un s'expressa quan el tens davant per davant et diu molt més que no pas el que li estigui sortint per la boca i t'arribi a les orelles.
 

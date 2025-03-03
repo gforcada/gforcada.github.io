@@ -6,7 +6,7 @@ Tags: GNOME traduccions, Softcatalà
 Slug: heroisheroines-catalans-del-gnome
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/12/gnomelovelogo.png" title="logotip del GNOME Love" class="alignright size-full wp-image-259" width="150" height="150" />](http://gil.badall.net/wp-content/uploads/2007/12/gnomelovelogo.png)El [GNOME](http://www.gnome.org "Pàgina web del projecte d'escriptori lliure GNOME") 3.6 està [a punt de sortir](https://live.gnome.org/ThreePointFive "Calendari del desenvolupament del GNOME 3.6")! I sembla ser que [el català](http://l10n.gnome.org/languages/ca/gnome-3-6/ui/ "Estadístiques de traducció del GNOME 3.6 al català"), de nou, tornarà a estar completament traduït :)
+[<img src="./wp-content/uploads/2007/12/gnomelovelogo.png" title="logotip del GNOME Love" class="alignright size-full wp-image-259" width="150" height="150" />](http://gil.badall.net/wp-content/uploads/2007/12/gnomelovelogo.png)El [GNOME](http://www.gnome.org "Pàgina web del projecte d'escriptori lliure GNOME") 3.6 està [a punt de sortir](https://live.gnome.org/ThreePointFive "Calendari del desenvolupament del GNOME 3.6")! I sembla ser que [el català](http://l10n.gnome.org/languages/ca/gnome-3-6/ui/ "Estadístiques de traducció del GNOME 3.6 al català"), de nou, tornarà a estar completament traduït :)
 
 Gràcies a la inestimable ajuda d'en Joan Duran ho estem tornat a aconseguir!
 

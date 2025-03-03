@@ -6,7 +6,7 @@ Tags: guifi, participació ciutadana, terrasSaharaui
 Slug: guifi-net-al-sahara
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" alt="logo guifi" />Ahir a través del canal d'[IRC de guifi.net](http://guifi.net/xat "Pàgina de guifi.net on s'explica com connectar-se al xat de guifi.net") ens van confirmar que ja han aconseguit el primer enllaç entre els poblats del Sàhara que es disposen a connectar!
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" alt="logo guifi" />Ahir a través del canal d'[IRC de guifi.net](http://guifi.net/xat "Pàgina de guifi.net on s'explica com connectar-se al xat de guifi.net") ens van confirmar que ja han aconseguit el primer enllaç entre els poblats del Sàhara que es disposen a connectar!
 
 Tot bé d'una col·laboració entre [TerrasSaharaui](http://www.barrinet.net/associacions/humanitaries/Terrassa/TERRASSAHARAUI/1.html "Lloc web de TerrasSaharaui una ONG de cooperació internacional") i [guifi.net](http://guifi.net "Pàgina web del projecte guifi.net") per tal d'interconnectar diversos campaments de refugiats del Sàhara per tal de fer una xarxa entre els hospitals i les escoles dels campaments.
 

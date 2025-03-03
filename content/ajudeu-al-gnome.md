@@ -6,7 +6,7 @@ Tags: GNOME, GNOME traduccions, GNOME-3
 Slug: ajudeu-al-gnome
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" />](http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png)D'aquí uns dies sortirà el [GNOME 3](http://www.gnome3.org "Pàgina web de promoció GNOME 3") i la traducció dels [mòduls oficials](http://l10n.gnome.org/languages/ca/gnome-3-0/ui/ "Estadístiques de traducció del GNOME 3 al català") està pràcticament enllestida.
+[<img src="./wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" />](http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png)D'aquí uns dies sortirà el [GNOME 3](http://www.gnome3.org "Pàgina web de promoció GNOME 3") i la traducció dels [mòduls oficials](http://l10n.gnome.org/languages/ca/gnome-3-0/ui/ "Estadístiques de traducció del GNOME 3 al català") està pràcticament enllestida.
 
 Però a l'ordinador teniu molt més que no pas els mòduls oficials, de manera que encara hi ha molta feina per fer. He fet una repassada ràpida als mòduls que hi ha per traduir i us els deixo aquí sota en tres categories:
 

@@ -6,7 +6,7 @@ Tags: guifi
 Slug: aniversaris-de-guifi
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Com que sóc molt despistat i algun dia o altre em farà servei em deixo per a mi mateix una entrada amb els enllaços dels últims aniversaris de [guifi](http://guifi.net "Pàgina web del projecte guifi.net") :)
+[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Com que sóc molt despistat i algun dia o altre em farà servei em deixo per a mi mateix una entrada amb els enllaços dels últims aniversaris de [guifi](http://guifi.net "Pàgina web del projecte guifi.net") :)
 
 1.  [Primer aniversari (uns 100 nodes a Osona)](http://guifi.net/node/1992 "Nota del primer aniversari de guifi.net")
 2.  [Segon aniversari](http://guifi.net/Sopar2006 "Pàgina del segon aniversari de guifi")

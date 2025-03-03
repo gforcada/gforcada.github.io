@@ -6,7 +6,7 @@ Tags: ESA, UdG
 Slug: ja-han-sortit-les-notes
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />avui era el dia, <a href="?p=134" target="_blank" rel="noopener">tal com ja havia dit</a>
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />avui era el dia, <a href="?p=134" target="_blank" rel="noopener">tal com ja havia dit</a>
 
 així que per fer-ho més emocionant entre ahir hi ha hagut problemes a la xarxa interna de la <a href="http://www.udg.cat" target="_blank" rel="noopener">UdG</a>, cosa que ho ha fet més emocionant, ja que s'ha passat tot el matí que no carregava, o si carregava no entenia l'autenticació que li entrava (i no és precisament perquè no ho escrigués bé ...)
 

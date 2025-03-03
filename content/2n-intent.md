@@ -8,7 +8,7 @@ Status: published
 
 *Construcció de la xarxa [guifi.net](http://guifi.net "Pàgina web del projecte guifi.net") a Molins de Rei: el primer enllaç ([MdrAvdaBcn123](http://guifi.net/ca/node/13907 "Node de casa l'Oriol") amb [MdrLaMola](http://guifi.net/ca/node/31020 "Node de La Mola"))*
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Ja fa unes setmanes vam fer un primer intent que no va ser reeixit perquè les antenes no s'enllaçaven, no vam saber trobar-hi el què.
+[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Ja fa unes setmanes vam fer un primer intent que no va ser reeixit perquè les antenes no s'enllaçaven, no vam saber trobar-hi el què.
 
 Ahir vam tornar-hi i per assegurar-nos el tret vam quedar a casa l'Oriol per comprovar que l'enllaç funcionés.
 

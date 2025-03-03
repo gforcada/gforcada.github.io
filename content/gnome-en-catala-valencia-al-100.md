@@ -6,7 +6,7 @@ Tags: català (valencià), GNOME traduccions, Softcatalà
 Slug: gnome-en-catala-valencia-al-100
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" alt="logotip del GNOME" />Em complau molt poder fer aquest anunci, i es que en [Carles Ferrando](http://laendle.wordpress.com/ "Bloc d'en Carles Ferrando") **ha finalitzat** la traducció del [GNOME 2.26](http://l10n.gnome.org/languages/ca@valencia/gnome-2-26/ui/ "Estadístiques de traducció del GNOME 2.26 al català (valencià)") al català (valencià)!!
+<img src="./wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" alt="logotip del GNOME" />Em complau molt poder fer aquest anunci, i es que en [Carles Ferrando](http://laendle.wordpress.com/ "Bloc d'en Carles Ferrando") **ha finalitzat** la traducció del [GNOME 2.26](http://l10n.gnome.org/languages/ca@valencia/gnome-2-26/ui/ "Estadístiques de traducció del GNOME 2.26 al català (valencià)") al català (valencià)!!
 
 Si bé ja ha sortit el GNOME 2.28 ((La traducció [ja està al 92%](http://l10n.gnome.org/languages/ca@valencia/gnome-2-28/ui/ "Estadístiques de traducció del GNOME 2.28 al català (valencià)") i amb uns quants fitxers esperant per pujar-se)) encara no hi havia cap versió del [GNOME](http://www.gnome.org "Lloc web del projecte d'escriptori lliure GNOME") completament traduïda al català (valencià).
 

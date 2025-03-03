@@ -15,4 +15,4 @@ ja vaig parlar del BOINC <a href="http://guifi.net/ca/node/3977" target="_blank"
 
 una captura:
 
-<a href="{static}wp-content/uploads/2007/02/captura-boinc-manager-localhost.png" class="imagelink" title="captura del boinc"><img src="http://gil.badall.net/wp-content/uploads/2007/02/captura-boinc-manager-localhost.miniatura.png" id="image11" alt="captura del boinc" /></a>
+<a href="{static}wp-content/uploads/2007/02/captura-boinc-manager-localhost.png" class="imagelink" title="captura del boinc"><img src="./wp-content/uploads/2007/02/captura-boinc-manager-localhost.miniatura.png" id="image11" alt="captura del boinc" /></a>

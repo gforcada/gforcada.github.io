@@ -6,7 +6,7 @@ Tags: catnix, fundació guifi, guifi
 Slug: guifi-net-per-fi-ja-apareix-al-catnix
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Doncs sí, finalment, després de moltíssim temps ((fins i tot més que no pas jo feia que no escrivia al bloc :D)) la web del CATNIX ja reflexa la realitat i **[mostra com a membre](http://www.catnix.net/ca/membres/ "Pàgina del CATNIX amb els seus membres") del CATNIX guifi.net**!
+[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Doncs sí, finalment, després de moltíssim temps ((fins i tot més que no pas jo feia que no escrivia al bloc :D)) la web del CATNIX ja reflexa la realitat i **[mostra com a membre](http://www.catnix.net/ca/membres/ "Pàgina del CATNIX amb els seus membres") del CATNIX guifi.net**!
 
 Fins i tot n'han fet [una notícia](http://www.catnix.net/ca/noticia/guifinet_se_conecta_al_catnix/26/ "Notícia a la web del CATNIX sobre la incorporació de guifi.net al CATNIX").
 

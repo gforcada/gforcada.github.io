@@ -6,7 +6,7 @@ Tags: consells, terminal, vim
 Slug: cercar-i-reemplacar-dintre-un-rang-de-linies
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/12/vimlogo.png" title="logotip del vim" class="alignright size-full wp-image-251" width="48" height="48" alt="logotip del vim" />El [Vim](http://www.vim.org/ "Pàgina web del Vim") et permet entre moltes altres coses fer cerques i reemplaçaments:
+<img src="./wp-content/uploads/2007/12/vimlogo.png" title="logotip del vim" class="alignright size-full wp-image-251" width="48" height="48" alt="logotip del vim" />El [Vim](http://www.vim.org/ "Pàgina web del Vim") et permet entre moltes altres coses fer cerques i reemplaçaments:
 
 >     :s/cerca/reemplaç/g
 

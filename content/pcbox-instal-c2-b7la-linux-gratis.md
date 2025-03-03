@@ -14,7 +14,7 @@ a pcbox tenen una espècie de configurador d'ordinadors, li vas demanant el que 
 
 així vas configurant la placa base, microprocessador, ram, discs durs, font d'alimentació, etc etc i quan arribes a l'apartat de programari pots triar linux
 
-![pcbox - linux](http://gil.badall.net/wp-content/uploads/2007/03/pcbox-linux.png)
+![pcbox - linux](./wp-content/uploads/2007/03/pcbox-linux.png)
 
 el que no especifiquen és quina distribució t'instal·len ...
 

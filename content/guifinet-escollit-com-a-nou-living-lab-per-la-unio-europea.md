@@ -6,7 +6,7 @@ Tags: enllaç guifi, european living labs, guifi
 Slug: guifinet-escollit-com-a-nou-living-lab-per-la-unio-europea
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />Per manda i parafresejant el que es diu a [guifi.net](http://guifi.net "Guifi.net"):
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />Per manda i parafresejant el que es diu a [guifi.net](http://guifi.net "Guifi.net"):
 
 > En la Gala del ICT2008 de Lyon organitzada per el govern francès en la seva presidència de torn de la Unió Europea, es van anunciar les iniciatives que un equip independent ha revisat i que obtenen el reconeixement com a *"Living Lab"*.
 

@@ -6,7 +6,7 @@ Tags: abreviatura, curiositats, viquipèdia
 Slug: ie
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/04/wiki-ca.png" data-align="right" alt="logotip de la Viquipèdia commemorant els 300 anys d’Almansa" />No em refereixo a l'<a href="http://ca.wikipedia.org/wiki/Internet_Explorer" target="_blank" rel="noopener">intent de navegador</a> d'una certa <a href="http://ca.wikipedia.org/wiki/Microsoft" target="_blank" rel="noopener">empresa</a> no :)
+<img src="./wp-content/uploads/2007/04/wiki-ca.png" data-align="right" alt="logotip de la Viquipèdia commemorant els 300 anys d’Almansa" />No em refereixo a l'<a href="http://ca.wikipedia.org/wiki/Internet_Explorer" target="_blank" rel="noopener">intent de navegador</a> d'una certa <a href="http://ca.wikipedia.org/wiki/Microsoft" target="_blank" rel="noopener">empresa</a> no :)
 
 Sinó al text que es posa moltes vegades (en anglès) quan vols posar un exemple, com el català *p.e.* (de per exemple).
 

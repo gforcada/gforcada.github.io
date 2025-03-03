@@ -6,4 +6,4 @@ Tags: donar sang, participació ciutadana
 Slug: amb-una-vegada-no-nhi-ha-prou-2
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />Ja fa unes setmanes que hi vaig anar, però no havia tingut temps :(
+<img src="./wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />Ja fa unes setmanes que hi vaig anar, però no havia tingut temps :(

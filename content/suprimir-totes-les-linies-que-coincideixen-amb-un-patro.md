@@ -6,7 +6,7 @@ Tags: expressions regulars, GNOME traduccions, terminal, turc, vim
 Slug: suprimir-totes-les-linies-que-coincideixen-amb-un-patro
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/12/vimlogo.png" data-align="right" alt="logotip del vim" />tot editant fitxers turcs\[1\] tenia la necessitat de suprimir totes les línies que comencessin per msgstr\[1\] així que he anat a buscar per Internet i al final he trobat que amb el <a href="http://www.vim.org" target="_blank" rel="noopener">vim</a> pots fer:
+<img src="./wp-content/uploads/2007/12/vimlogo.png" data-align="right" alt="logotip del vim" />tot editant fitxers turcs\[1\] tenia la necessitat de suprimir totes les línies que comencessin per msgstr\[1\] així que he anat a buscar per Internet i al final he trobat que amb el <a href="http://www.vim.org" target="_blank" rel="noopener">vim</a> pots fer:
 
     :%g/^msgstr\[1/d
 

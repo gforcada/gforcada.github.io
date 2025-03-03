@@ -6,7 +6,7 @@ Tags: GNOME traduccions, Softcatalà
 Slug: gnome-2-28-finalment-al-100
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" alt="logotip del GNOME" />Avui és [el dia dels 100%](http://gil.badall.net/?p=723 "Entrada al meu bloc sobre l'arribada al 100% de la traducció al català (valencià) del GNOME") sembla :)
+<img src="./wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" alt="logotip del GNOME" />Avui és [el dia dels 100%](http://gil.badall.net/?p=723 "Entrada al meu bloc sobre l'arribada al 100% de la traducció al català (valencià) del GNOME") sembla :)
 
 Per fi hem acabat les dues traduccions que quedaven del [GNOME 2.28](http://l10n.gnome.org/languages/ca/gnome-2-28/ui/ "Estadístiques de traducció del GNOME 2.28 al català") i finalment podem dir que ja hem arribat al 100% :D
 

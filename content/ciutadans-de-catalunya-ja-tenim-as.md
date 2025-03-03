@@ -6,7 +6,7 @@ Tags: fundació guifi, guifi, Internet
 Slug: ciutadans-de-catalunya-ja-tenim-as
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" alt="logo guifi" />El [RIPE NCC](http://en.wikipedia.org/wiki/RIPE_NCC "Article de la wikipedia anglesa sobre el RIPE NCC") ens ha assignat el número d'[AS](http://en.wikipedia.org/wiki/AS_number "Article de la wikipedia anglesa sobre els números AS que s'atorgen a les operadores d'Internet") (Autonomous system)! En concret és el [49835](http://www.db.ripe.net/whois?searchtext=AS49835 "Llistat de AS del RIPE NCC on hi ha el de guifi.net").
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" alt="logo guifi" />El [RIPE NCC](http://en.wikipedia.org/wiki/RIPE_NCC "Article de la wikipedia anglesa sobre el RIPE NCC") ens ha assignat el número d'[AS](http://en.wikipedia.org/wiki/AS_number "Article de la wikipedia anglesa sobre els números AS que s'atorgen a les operadores d'Internet") (Autonomous system)! En concret és el [49835](http://www.db.ripe.net/whois?searchtext=AS49835 "Llistat de AS del RIPE NCC on hi ha el de guifi.net").
 
 Què vol dir això a efectes pràctics de [guifi.net](http://guifi.net "Pàgina web del projecte guifi.net")?
 

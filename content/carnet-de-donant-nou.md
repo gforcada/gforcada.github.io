@@ -6,7 +6,7 @@ Tags: donar sang, GNOME, participació ciutadana, programari lliure, UdG
 Slug: carnet-de-donant-nou
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />l'altre dia a l'arribar a casa vaig veure una carta del <a href="http://www.bancsang.net/" target="_blank" rel="noopener">banc de sang</a>, cosa que m'estranyava, doncs ja havia rebut els resultats de <a href="?p=189" target="_blank" rel="noopener">l'última donació</a>, així que en obrir-lo ho vaig descobrir: un carnet de donant nou :)
+<img src="./wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />l'altre dia a l'arribar a casa vaig veure una carta del <a href="http://www.bancsang.net/" target="_blank" rel="noopener">banc de sang</a>, cosa que m'estranyava, doncs ja havia rebut els resultats de <a href="?p=189" target="_blank" rel="noopener">l'última donació</a>, així que en obrir-lo ho vaig descobrir: un carnet de donant nou :)
 
 no tinc fotos del carnet perquè no tinc càmera, però ara ja és com una targeta de compres normal, a més han tingut el detall de deixar a darrera un espai per poder anotar les dates d'extracció i així que un mateix ja pot saber quan hi pot tornar a anar :D
 

@@ -6,7 +6,7 @@ Tags: branding, firefox, linux, reflexions, ubuntu
 Slug: branding
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2009/05/tux.png" title="tux" class="alignright size-full wp-image-583" width="265" height="314" alt="tux" />Acabo de ser redirigit per un d'aquests enllaços curts\[1\] a [the How-To Geek](http://www.howtogeek.com) i per sorpresa meva veig que hi ha unes quantes categories amb de how-to: Diverses versions del SO de Windows, l'Office, Internet, Geek stuff, ubuntu/linux i blogs.
+<img src="./wp-content/uploads/2009/05/tux.png" title="tux" class="alignright size-full wp-image-583" width="265" height="314" alt="tux" />Acabo de ser redirigit per un d'aquests enllaços curts\[1\] a [the How-To Geek](http://www.howtogeek.com) i per sorpresa meva veig que hi ha unes quantes categories amb de how-to: Diverses versions del SO de Windows, l'Office, Internet, Geek stuff, ubuntu/linux i blogs.
 
 Hi ha dues qüestions que em fan arrufar el nas:
 

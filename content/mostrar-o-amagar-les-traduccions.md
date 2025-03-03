@@ -6,7 +6,7 @@ Tags: damned-lies, expressions regulars, GNOME traduccions, javascript, programa
 Slug: mostrar-o-amagar-les-traduccions
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png" data-align="right" alt="logotip del GNOME" />després de dinar no sabia què fer i m'ha picat el cuc *hacker* i m'he decidit a tancar el l'errada <a href="http://bugzilla.gnome.org/show_bug.cgi?id=106779" target="_blank" rel="noopener">#106779</a> :)
+<img src="./wp-content/uploads/2008/01/gnomefoot.png" data-align="right" alt="logotip del GNOME" />després de dinar no sabia què fer i m'ha picat el cuc *hacker* i m'he decidit a tancar el l'errada <a href="http://bugzilla.gnome.org/show_bug.cgi?id=106779" target="_blank" rel="noopener">#106779</a> :)
 
 moltes, moltes, moltes hores després he aconseguit que totes les peces encaixin i ara per fi ja he pogut enviar un <a href="http://bugzilla.gnome.org/attachment.cgi?id=105411&amp;action=view" target="_blank" rel="noopener">pedaç</a> que afegeix la funcionalitat d'amagar o mostrar les traduccions que ja estan al 100%
 

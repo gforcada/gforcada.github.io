@@ -6,7 +6,7 @@ Tags: física, TALF, UdG
 Slug: cfg
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" title="logo de la UdG" class="alignright size-full wp-image-311" width="74" height="109" alt="logo de la UdG" />Resulta que els meus pares sabien teoria sobre models abstractes de càlcul i jocs de paraules i per això van escollir un nom amb la lletra G i llegides les sigles del revés quedava (en anglès) [Context-Free Grammar](http://en.wikipedia.org/wiki/Context-free_grammar "Article a la Wikipedia anglesa sobre gramàtiques lliures de context") :D
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" title="logo de la UdG" class="alignright size-full wp-image-311" width="74" height="109" alt="logo de la UdG" />Resulta que els meus pares sabien teoria sobre models abstractes de càlcul i jocs de paraules i per això van escollir un nom amb la lletra G i llegides les sigles del revés quedava (en anglès) [Context-Free Grammar](http://en.wikipedia.org/wiki/Context-free_grammar "Article a la Wikipedia anglesa sobre gramàtiques lliures de context") :D
 
 Sí, acabo de fer l'exàmen de [TALLF](http://pserv.udg.edu/FitxesAssignatures/VistaPublica.aspx?IdCursAcademic=2008&IdAssignatura=3105IS0017&tab=1 "Pàgina de descripció de què s'estudia a TALLF a la UdG") i m'ha anat força bé :)
 

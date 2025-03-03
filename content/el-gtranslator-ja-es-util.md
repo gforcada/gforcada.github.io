@@ -15,7 +15,7 @@ una de les novetats que hi ha ara mateix a la branca <a href="http://svn.gnome.o
 
 []({static}wp-content/uploads/2008/01/gtranslator.png "gtranslator en funcionament")
 
-[![gtranslator en funcionament](http://gil.badall.net/wp-content/uploads/2008/01/gtranslator.thumbnail.png)]({static}wp-content/uploads/2008/01/gtranslator.png "gtranslator en funcionament")
+[![gtranslator en funcionament](./wp-content/uploads/2008/01/gtranslator.thumbnail.png)]({static}wp-content/uploads/2008/01/gtranslator.png "gtranslator en funcionament")
 
 els observadors també hauran vist que hi ha una pestanya a sota de la llista de cadenes que posa «alternate language» que serveix per tenir un alter fitxer po obert, en principi el mateix que s'està traduint però en un altre idioma, o per exemple, una memòria de traducció (com la de <a href="http://www.softcatala.org/projectes/eines/mt/" target="_blank" rel="noopener">Softcatalà</a>)
 

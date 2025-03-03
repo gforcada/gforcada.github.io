@@ -7,7 +7,7 @@ Slug: ara-es-el-millor-moment-per-construir-el-gnome-3-0
 Status: published
 Attachments: wp-content/uploads/2011/02/Screenshot.png
 
-[<img src="http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" />](http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png)Si sou impacients, o senzillament us agrada provar novetats, ja estareu al cas que [d'aquí poc](http://live.gnome.org/TwoPointNinetyone "Calendari de llançament del GNOME 3 previst pel 6 d'abril") sortirà el [GNOME 3](http://www.gnome3.org "Pàgina de promoció del GNOME3") amb el [GNOME Shell](http://live.gnome.org/GnomeShell "Pàgina principal del projecte GNOME Shell a la wiki del GNOME") i tot el que això implica.
+[<img src="./wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" />](http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png)Si sou impacients, o senzillament us agrada provar novetats, ja estareu al cas que [d'aquí poc](http://live.gnome.org/TwoPointNinetyone "Calendari de llançament del GNOME 3 previst pel 6 d'abril") sortirà el [GNOME 3](http://www.gnome3.org "Pàgina de promoció del GNOME3") amb el [GNOME Shell](http://live.gnome.org/GnomeShell "Pàgina principal del projecte GNOME Shell a la wiki del GNOME") i tot el que això implica.
 
 Mentre les distribucions no empaqueten tots els mòduls que fan falta pel GNOME 3 sempre ens queda l'opció d'utilitzar el [JHBuild](http://library.gnome.org/devel/jhbuild/stable/ "Documentació del JHBuild, l'eina de compilació del GNOME"), un sistema d'automatització de seguiment de dependències, de la compilació dels paquets i de la instal·lació d'aquests.
 
@@ -36,4 +36,4 @@ Amb això al fitxer ~/.jhbuildrc ja en tindreu prou per començar a compilar el 
 
 Aquí us deixo una captura de pantalla ((Sí tinc un usuari que es diu jou per fer-lo servir per fer proves)) a mode de fer-vos dentetes a veure si us animeu a compilar-lo:
 
-[<img src="http://gil.badall.net/wp-content/uploads/2011/02/Screenshot-300x187.png" title="Screenshot" class="size-medium wp-image-1192 aligncenter" width="300" height="187" />]({static}wp-content/uploads/2011/02/Screenshot.png)
+[<img src="./wp-content/uploads/2011/02/Screenshot-300x187.png" title="Screenshot" class="size-medium wp-image-1192 aligncenter" width="300" height="187" />]({static}wp-content/uploads/2011/02/Screenshot.png)

@@ -6,7 +6,7 @@ Tags: evolution, gentoo, GNOME, locale
 Slug: les-setmanes-comencen-dilluns
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/11/glogo-small.png" title="logotip de gentoo" class="alignright size-full wp-image-224" width="146" height="149" alt="logotip de gentoo" />Des de que tinc el portàtil nou i que hi vaig posar [Gentoo](http://www.gentoo.org/ "Lloc web de la distribució Linux Gentoo") tot ha anat força bé, almenys amb temps i una canya havia aconseguit que el servidor d'X funcionés (com que el portàtil porta una de les targetes gràfiques d'Intel noves no hi havia els drivers en el [Portage](http://en.wikipedia.org/wiki/Portage_(software) "Article de la Wikipedia sobre el Portage") normal).
+<img src="./wp-content/uploads/2007/11/glogo-small.png" title="logotip de gentoo" class="alignright size-full wp-image-224" width="146" height="149" alt="logotip de gentoo" />Des de que tinc el portàtil nou i que hi vaig posar [Gentoo](http://www.gentoo.org/ "Lloc web de la distribució Linux Gentoo") tot ha anat força bé, almenys amb temps i una canya havia aconseguit que el servidor d'X funcionés (com que el portàtil porta una de les targetes gràfiques d'Intel noves no hi havia els drivers en el [Portage](http://en.wikipedia.org/wiki/Portage_(software) "Article de la Wikipedia sobre el Portage") normal).
 
 L'únic defecte que no havia aconseguit solucionar era que tot i que el calendari de l'[Evolution](http://projects.gnome.org/evolution/ "Pàgina web del projecte de suite de correu i calendari Evolution") ja em marcava correctament com a inici de setmana el dilluns (es pot configurar a través de les preferències) el calendari del quadre (el que et surt quan fas clic a l'hora) em continuava mostrant el diumenge com a dia d'inici.
 

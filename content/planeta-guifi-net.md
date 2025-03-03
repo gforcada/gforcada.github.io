@@ -6,7 +6,7 @@ Tags: guifi, planeta guifi, wordpress
 Slug: planeta-guifi-net
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Ahir vaig instal·lar un planeta per a guifi.net: <http://planet.guifi.net> ((Encara està en fase beta ja que podeu veure que no se per quin motiu no ordena les entrades per data.))
+[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Ahir vaig instal·lar un planeta per a guifi.net: <http://planet.guifi.net> ((Encara està en fase beta ja que podeu veure que no se per quin motiu no ordena les entrades per data.))
 
 El concepte de planeta és molt senzill, és una pàgina web que recull continguts a partir de diverses fonts RSS i les mostra d'una forma unificada i a més a més permet llegir-ho com a RSS de manera que pots tenir diversos continguts de moltes fonts diferents en un sol punt.
 

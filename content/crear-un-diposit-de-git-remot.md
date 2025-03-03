@@ -6,7 +6,7 @@ Tags: consells, git, servidor badall
 Slug: crear-un-diposit-de-git-remot
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" alt="git-logo" />Ara que el [git](http://git-scm.com/ "Lloc web del projecte git, un sistema de control de revisions de fitxers distribuït") s'utilitza [a](http://git.kernel.org "Lloc web pel servidor de git per al sistema operatiu Linux") [molts](http://git.gnome.org "Lloc web pel servidor de git per al projecte GNOME") [projectes](http://cgit.freedesktop.org/ "Lloc web pel servidor de git per als projecte de Freedesktop") [importants](http://git.debian.org/ "Lloc web pel servidor de git per als projecte de Debian") va bé saber com muntar-se el teu propi servidor de git.
+<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" alt="git-logo" />Ara que el [git](http://git-scm.com/ "Lloc web del projecte git, un sistema de control de revisions de fitxers distribuït") s'utilitza [a](http://git.kernel.org "Lloc web pel servidor de git per al sistema operatiu Linux") [molts](http://git.gnome.org "Lloc web pel servidor de git per al projecte GNOME") [projectes](http://cgit.freedesktop.org/ "Lloc web pel servidor de git per als projecte de Freedesktop") [importants](http://git.debian.org/ "Lloc web pel servidor de git per als projecte de Debian") va bé saber com muntar-se el teu propi servidor de git.
 
 A grans trets són 3 pasos diferenciats: crear el dipòsit en el servidor, iniciar el dipòsit en el servidor local i finalment com s'utilitza en un ordinador qualsevol.
 

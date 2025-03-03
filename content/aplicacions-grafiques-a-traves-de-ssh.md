@@ -6,7 +6,7 @@ Tags: consells, programari lliure, ssh
 Slug: aplicacions-grafiques-a-traves-de-ssh
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/11/openssh_logo.png" data-align="right" alt="logotip de l’Openssh" />ja fa temps que sabia que es podia fer, però pensava que seria quelcom complicat, que requerís editar un bon grapat de fitxers de configuració, saber com funcionen ben bé totes les parts i buscar molt per Internet, però resulta que és tan simple com:
+<img src="./wp-content/uploads/2007/11/openssh_logo.png" data-align="right" alt="logotip de l’Openssh" />ja fa temps que sabia que es podia fer, però pensava que seria quelcom complicat, que requerís editar un bon grapat de fitxers de configuració, saber com funcionen ben bé totes les parts i buscar molt per Internet, però resulta que és tan simple com:
 
     ssh -X usuari@màquina
 

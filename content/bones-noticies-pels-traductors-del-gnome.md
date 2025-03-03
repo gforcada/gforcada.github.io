@@ -6,7 +6,7 @@ Tags: GNOME, GNOME traduccions, php, python, transifex, vertimus
 Slug: bones-noticies-pels-traductors-del-gnome
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/12/gnomelovelogo.png" title="logotip del GNOME Love" class="alignright size-full wp-image-259" width="150" height="150" alt="logotip del GNOME Love" />Ja feia temps que s'estava coent el canvi i avui finalment s'ha fet ([nota oficial](http://mail.gnome.org/archives/gnome-i18n/2008-December/msg00113.html "Correu sobre el nou Damned-lies + Vertimus")) :D
+<img src="./wp-content/uploads/2007/12/gnomelovelogo.png" title="logotip del GNOME Love" class="alignright size-full wp-image-259" width="150" height="150" alt="logotip del GNOME Love" />Ja feia temps que s'estava coent el canvi i avui finalment s'ha fet ([nota oficial](http://mail.gnome.org/archives/gnome-i18n/2008-December/msg00113.html "Correu sobre el nou Damned-lies + Vertimus")) :D
 
 Si ja us agradava les estadístiques del [Damned-lies](http://l10n.gnome.org "Lloc web de les estadístiques de traducció del GNOME") ara encara us agradarà més (si sou traductor) ja que s'ha integrat tota les funcions de gestió de traduccions del [Vertimus](http://gnomefr.traduc.org/suivi/ "Instància del Vertimus al lloc web de traducció del GNOME al francès") a aquest primer.
 

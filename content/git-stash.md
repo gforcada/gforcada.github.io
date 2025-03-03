@@ -6,7 +6,7 @@ Tags: consells, git, terminal
 Slug: git-stash
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)Una de les primeres coses que descobreixes quan utilitzes git és que de la mateixa manera que un mediawiki, per posar un exemple, hi ha mil i una maneres de treballar-hi:
+[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)Una de les primeres coses que descobreixes quan utilitzes git és que de la mateixa manera que un mediawiki, per posar un exemple, hi ha mil i una maneres de treballar-hi:
 
 Tot amb branques, arbres remots a github, via pedaços (com se solia anar amb subversion i cvs) ...
 

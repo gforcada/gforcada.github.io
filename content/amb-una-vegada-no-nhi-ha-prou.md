@@ -6,7 +6,7 @@ Tags: donar sang, participació ciutadana, pis de girona
 Slug: amb-una-vegada-no-nhi-ha-prou
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />i per això avui al matí hi he tornat a anar (<a href="http://gil.badall.net/?p=189" target="_blank" rel="noopener">ja fa tres mesos</a>)
+<img src="./wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />i per això avui al matí hi he tornat a anar (<a href="http://gil.badall.net/?p=189" target="_blank" rel="noopener">ja fa tres mesos</a>)
 
 avui fins i tot m'ha semblat una broma això de treure sang ... tenien la televisió posada (<a href="http://www.tv3.cat" target="_blank" rel="noopener">TV3</a> en concret) i pràcticament ha sigt assentar-se, que em punxin, mirar encara no 3 o 4 minuts els matins de TV3 i llestos, cap a la cafeteria a agafar alguna cosa per picar i a casa i falta gent :D
 

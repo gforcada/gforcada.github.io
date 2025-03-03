@@ -7,7 +7,7 @@ Slug: n900-iphone-nexus-one-i-camera
 Status: published
 Attachments: wp-content/uploads/2010/04/DSC00049.jpg
 
-[<img src="http://gil.badall.net/wp-content/uploads/2010/04/DSC00049-300x225.jpg" title="mòbils" class="aligncenter size-medium wp-image-903" width="300" height="225" />]({static}wp-content/uploads/2010/04/DSC00049.jpg)
+[<img src="./wp-content/uploads/2010/04/DSC00049-300x225.jpg" title="mòbils" class="aligncenter size-medium wp-image-903" width="300" height="225" />]({static}wp-content/uploads/2010/04/DSC00049.jpg)
 
 A la imatge podeu veure a dalt a l'esquerra la [Nokia N900](http://en.wikipedia.org/wiki/N900 "Article de la wikipedia anglesa sobre la Nokia N900"), a sota l'[iPhone d'Apple](http://en.wikipedia.org/wiki/IPhone "Article de la wikipedia anglesa sobre l'iPhone d'Apple") ((I sí, ja el tinc en "català del TERMCAT" ... ))  i finalment a la dreta el [Nexus One de Google](http://en.wikipedia.org/wiki/Nexus_One "Article de la wikipedia anglesa sobre el Nexus One de Google"). Evidentment la càmera és amb la que he fet la foto, una [Sony DSCHX5VB](https://www.sonystyle.es/SonyStyle/Camaras-digitales/Serie-HX/DSCHX5VB.CEE8 "Descripció de la càmera que li vaig comprar a la Sílvia") si m'ho pregunteu, té GPS, grava vídeo en HD, compensa el moviment, etc etc etc.
 

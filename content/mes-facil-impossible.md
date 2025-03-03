@@ -6,7 +6,7 @@ Tags: GNOME, packagekit, Softcatalà, vmware
 Slug: mes-facil-impossible
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/12/gnomelovelogo.png" data-align="right" alt="logotip del GNOME Love" />un dels principals problemes que es troba tothom quan vol participar en projectes de programari lliure és en poder compilar i provar el programa (que si dependències, etc etc)
+<img src="./wp-content/uploads/2007/12/gnomelovelogo.png" data-align="right" alt="logotip del GNOME Love" />un dels principals problemes que es troba tothom quan vol participar en projectes de programari lliure és en poder compilar i provar el programa (que si dependències, etc etc)
 
 així que <a href="http://ken.vandine.org/?p=293" target="_blank" rel="noopener">avui llegeixo</a> en el <a href="http://planet.gnome.org" target="_blank" rel="noopener">planeta GNOME</a> que s'ha començat un projecte molt ambiciós anomenat <a href="http://live.gnome.org/GnomeDeveloperKit" target="_blank" rel="noopener">GNOME Developer Kit</a> que és tan simple com que han creat una imatge per a <a href="http://www.vmware.com" target="_blank" rel="noopener">vmware</a> o iso normal de tota la vida que es crea diàriament en la que hi ha tots els programes de l'escriptori <a href="http://www.gnome.org" target="_blank" rel="noopener">GNOME</a> (en realitat és una distribució derivada de <a href="http://www.foresightlinux.org" target="_blank" rel="noopener">Foresight Linux</a>) compilats directament del svn del GNOME!
 

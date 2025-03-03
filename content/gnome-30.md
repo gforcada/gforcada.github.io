@@ -6,7 +6,7 @@ Tags: git, GNOME, guadec, idees, istanbul, xesam
 Slug: gnome-30
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png" data-align="right" alt="logotip del GNOME" />A <a href="http://xesam.org/" target="_blank" rel="noopener">Istanbul</a> el <a href="http://live.gnome.org/ReleasePlanning/NewReleaseTeamMembers" target="_blank" rel="noopener">release-team</a> va presentar la idea de que la versió 2.30 passés a ser la versió 3.0 (amb una bonica animació que suprimia el 2 i movia el . una posició a la dreta :)
+<img src="./wp-content/uploads/2008/01/gnomefoot.png" data-align="right" alt="logotip del GNOME" />A <a href="http://xesam.org/" target="_blank" rel="noopener">Istanbul</a> el <a href="http://live.gnome.org/ReleasePlanning/NewReleaseTeamMembers" target="_blank" rel="noopener">release-team</a> va presentar la idea de que la versió 2.30 passés a ser la versió 3.0 (amb una bonica animació que suprimia el 2 i movia el . una posició a la dreta :)
 
 La idea seria que no només canviés el número, sinó que també canviés la política d'acceptació de mòducls o els requeriments per a poder formar part de la plataforma, de la mateixa manera que se'n faria fora d'altres biblioteques que només acumulen pols i que ja ningú utilitza.
 

@@ -6,7 +6,7 @@ Tags: GNOME, GNOME traduccions, humor, pis de girona, reflexions, UdG
 Slug: productivitat-abans-dels-examens
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />diria que deu fer uns tres o quatre anys com a molt una companya de pis quan li vaig comentar que el pis estava força brut i que s'hauria de fer una *mica* de neteja:
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />diria que deu fer uns tres o quatre anys com a molt una companya de pis quan li vaig comentar que el pis estava força brut i que s'hauria de fer una *mica* de neteja:
 
 *tranquil, que aviat hi ha examens*
 

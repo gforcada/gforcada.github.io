@@ -6,7 +6,7 @@ Tags: fundació televall, guifi, protestes
 Slug: sha-perpetrat-un-robatori
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" data-align="right" alt="logo guifi" />Resulta que una colla de lladres (a vegades amb el bon nom de <a href="http://televall.org/" target="_blank" rel="noopener">Fundació Televall</a>) es dediquen a fer *simulacions de concursos públics* per acabar perpetrant el que és un <a href="http://www.gencat.cat/diari/5157/08170007.htm" target="_blank" rel="noopener">robatori a tots els contribuents</a>.
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" data-align="right" alt="logo guifi" />Resulta que una colla de lladres (a vegades amb el bon nom de <a href="http://televall.org/" target="_blank" rel="noopener">Fundació Televall</a>) es dediquen a fer *simulacions de concursos públics* per acabar perpetrant el que és un <a href="http://www.gencat.cat/diari/5157/08170007.htm" target="_blank" rel="noopener">robatori a tots els contribuents</a>.
 
 Ras i curt: adjudiquen a dit una xarxa intracomarcal a la Garrotxa\[1\] obligant a dir-los que sí a tots els alcaldes de les poblacions \[2\].
 

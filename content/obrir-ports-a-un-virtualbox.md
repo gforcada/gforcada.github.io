@@ -6,7 +6,7 @@ Tags: consells, virtualbox
 Slug: obrir-ports-a-un-virtualbox
 Status: published
 
-*[<img src="http://gil.badall.net/wp-content/uploads/2008/03/vbox.png" title="logo del virtualbox" class="alignright size-full wp-image-314" width="140" height="151" />](http://gil.badall.net/wp-content/uploads/2008/03/vbox.png)Long time no blogging ... anyway!*
+*[<img src="./wp-content/uploads/2008/03/vbox.png" title="logo del virtualbox" class="alignright size-full wp-image-314" width="140" height="151" />](http://gil.badall.net/wp-content/uploads/2008/03/vbox.png)Long time no blogging ... anyway!*
 
 Ja fa temps ((De fet ho vaig descobrir a [Openbravo](http://www.openbravo.com "Lloc web d'Openbravo un ERP open source") quan utilitzava les màquines virtuals per fer coses de la feina)) que feia servir unes opcions no tant conegudes del [Virtualbox](http://www.virtualbox.org "Lloc web del projecte Virtualbox una eina per a crear i gestionar màquines virtuals") i que permeten interactuar molt més fàcilment amb la màquina virtual, aquí va l'explicació:
 

@@ -6,7 +6,7 @@ Tags: consells, virtualbox
 Slug: virtualbox-compartir-carpetes
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/03/vbox.png" data-align="right" alt="logo del virtualbox" /><a href="?p=313" target="_blank" rel="noopener">Ja fa temps</a> que el vaig començar a fer servir per virtualitzar el Windows. És molt senzill i ràpid, es segueix un petit auxiliar i ja està tot apunt. Poses el cd (o seleccionar una imatge ISO que ja tinguis al disc dur) i comences a instal·lar el sistema operatiu.
+<img src="./wp-content/uploads/2008/03/vbox.png" data-align="right" alt="logo del virtualbox" /><a href="?p=313" target="_blank" rel="noopener">Ja fa temps</a> que el vaig començar a fer servir per virtualitzar el Windows. És molt senzill i ràpid, es segueix un petit auxiliar i ja està tot apunt. Poses el cd (o seleccionar una imatge ISO que ja tinguis al disc dur) i comences a instal·lar el sistema operatiu.
 
  
 

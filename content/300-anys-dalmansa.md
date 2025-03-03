@@ -15,4 +15,4 @@ Attachments: wp-content/uploads/2007/04/aciestem2.png
 
 i recordeu!
 
-![Felip V](http://gil.badall.net/wp-content/uploads/2007/04/felipe-v.jpg)
+![Felip V](./wp-content/uploads/2007/04/felipe-v.jpg)

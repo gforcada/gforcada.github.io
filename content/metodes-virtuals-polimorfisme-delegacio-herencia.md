@@ -6,7 +6,7 @@ Tags: dubtes, programació, python
 Slug: metodes-virtuals-polimorfisme-delegacio-herencia
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/07/python_logo.png" title="Logotip del Python" class="alignright size-full wp-image-377" width="110" height="110" />Aquest tros de codi amb [Python](http://www.python.org/ "Lloc web del llenguatge de programació Python"):
+<img src="./wp-content/uploads/2008/07/python_logo.png" title="Logotip del Python" class="alignright size-full wp-image-377" width="110" height="110" />Aquest tros de codi amb [Python](http://www.python.org/ "Lloc web del llenguatge de programació Python"):
 
 >     #!/usr/bin/env python
 >     # -*- encoding: utf-8 -*-

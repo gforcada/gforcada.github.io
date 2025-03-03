@@ -6,7 +6,7 @@ Tags: consells, linux, virtualbox
 Slug: guest-additions-en-linux
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/03/vbox.png" data-align="right" alt="logo del virtualbox" />Fa uns dies comentava que per <a href="?p=327" target="_blank" rel="noopener">compartir carpetes</a> i tenir <a href="?p=330" target="_blank" rel="noopener">integració de finestres</a> calia instal·lar les *Guest Additions* al Windows.
+<img src="./wp-content/uploads/2008/03/vbox.png" data-align="right" alt="logo del virtualbox" />Fa uns dies comentava que per <a href="?p=327" target="_blank" rel="noopener">compartir carpetes</a> i tenir <a href="?p=330" target="_blank" rel="noopener">integració de finestres</a> calia instal·lar les *Guest Additions* al Windows.
 
 Doncs bé, per fer-ho a Linux no es gaire més complicat :)
 

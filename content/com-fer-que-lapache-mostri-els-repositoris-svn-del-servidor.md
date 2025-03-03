@@ -6,7 +6,7 @@ Tags: apache, consells, gentoo, ssh, svn
 Slug: com-fer-que-lapache-mostri-els-repositoris-svn-del-servidor
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/01/subversion.png" data-align="right" alt="logotip del Subversion" />Tinc un parell de repositoris subversion al <a href="http://badall.net:81" target="_blank" rel="noopener">servidor vell</a> i com que vull donar-hi accés a d'altres persones m'he decidit a fer el que diu el títol: permetre que es pugui accedir des de web i de forma anònima als repositoris.
+<img src="./wp-content/uploads/2008/01/subversion.png" data-align="right" alt="logotip del Subversion" />Tinc un parell de repositoris subversion al <a href="http://badall.net:81" target="_blank" rel="noopener">servidor vell</a> i com que vull donar-hi accés a d'altres persones m'he decidit a fer el que diu el títol: permetre que es pugui accedir des de web i de forma anònima als repositoris.
 
 Com que és en el servidor hi ha <a href="http://www.gentoo.org" target="_blank" rel="noopener">Gentoo</a> hi ha una guia que està molt bé: <a href="http://www.rockfloat.com/howto/gentoo-subversion.html" target="_blank" rel="noopener">Gentoo-Subversion</a>.
 

@@ -6,7 +6,7 @@ Tags: akademy, futbol, GNOME, guadec
 Slug: 12-hores
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/12/guadec.png" data-align="right" alt="logotip de la GUADEC" />Es el que falten perquè sortim amb l'avió cap a Munich i després de dues hores d'espera agafar l'avió fins a <a href="http://ca.wikipedia.org/wiki/Istambul" target="_blank" rel="noopener">Istanbul</a> per a assistir a la <a href="http://www.guadec.org" target="_blank" rel="noopener">GUADEC</a>.
+<img src="./wp-content/uploads/2007/12/guadec.png" data-align="right" alt="logotip de la GUADEC" />Es el que falten perquè sortim amb l'avió cap a Munich i després de dues hores d'espera agafar l'avió fins a <a href="http://ca.wikipedia.org/wiki/Istambul" target="_blank" rel="noopener">Istanbul</a> per a assistir a la <a href="http://www.guadec.org" target="_blank" rel="noopener">GUADEC</a>.
 
 Finalment, i just un dia abans de marxar, ens ha arribat la confirmació que tenim reservada una habitació d'hotel per a poder dormir i així no haurem de gaudir de la magnífica varietat de ponts que de segur té Istanbul :D
 

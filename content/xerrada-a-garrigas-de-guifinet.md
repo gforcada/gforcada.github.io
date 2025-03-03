@@ -7,7 +7,7 @@ Slug: xerrada-a-garrigas-de-guifinet
 Status: published
 Attachments: wp-content/uploads/2008/04/garrigas.jpg
 
-<img src="{static}wp-content/uploads/2008/04/garrigas.jpg" data-align="right" alt="Escut de Garrigàs" />![logo guifi](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)
+<img src="{static}wp-content/uploads/2008/04/garrigas.jpg" data-align="right" alt="Escut de Garrigàs" />![logo guifi](./wp-content/uploads/2007/10/logo-guifi.png)
 
 Aquest <a href="http://guifi.net/ca/node/14560" target="_blank" rel="noopener">divendres passat</a> vaig fer la xerrada de presentació de <a href="http://guifi.net" target="_blank" rel="noopener">guifi.net</a> a <a href="http://ca.wikipedia.org/wiki/Garrig%C3%A0s" target="_blank" rel="noopener">Garrigàs</a> <a href="http://guifi.net/garrigas" target="_blank" rel="noopener">[1]</a>.
 

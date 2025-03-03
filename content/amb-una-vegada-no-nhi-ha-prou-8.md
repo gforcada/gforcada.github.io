@@ -6,7 +6,7 @@ Tags: donar sang, participació ciutadana
 Slug: amb-una-vegada-no-nhi-ha-prou-8
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/04/logo_portada.gif" title="logo del banc de sang" class="alignright size-full wp-image-80" />](http://gil.badall.net/wp-content/uploads/2007/04/logo_portada.gif)Va ser tota una coincidència, però aquest cap de setmana passat que vaig estar a Catalunya, hi havia el bus itinerant de donació de sang a Molins de Rei, així que dit i fet :)
+[<img src="./wp-content/uploads/2007/04/logo_portada.gif" title="logo del banc de sang" class="alignright size-full wp-image-80" />](http://gil.badall.net/wp-content/uploads/2007/04/logo_portada.gif)Va ser tota una coincidència, però aquest cap de setmana passat que vaig estar a Catalunya, hi havia el bus itinerant de donació de sang a Molins de Rei, així que dit i fet :)
 
 Ja fa mig any que no donava sang, des de que ens vam traslladar al novembre, així que ja estava més que passat el període que s'ha d'esperar entre donació i donació.
 

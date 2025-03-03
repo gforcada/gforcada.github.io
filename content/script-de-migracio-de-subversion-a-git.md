@@ -6,7 +6,7 @@ Tags: git, guifi, programari lliure, svn
 Slug: script-de-migracio-de-subversion-a-git
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)Hi ha moltíssimes maneres de passar un repositori Subversion a git.
+[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)Hi ha moltíssimes maneres de passar un repositori Subversion a git.
 
 Ni molt menys és que sigui una tasca complexa, tot depèn de les bones pràctiques que s'hagin dut a terme en el Subversion.
 

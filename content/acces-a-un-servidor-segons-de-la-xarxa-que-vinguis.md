@@ -6,7 +6,7 @@ Tags: servidor badall, ssh
 Slug: acces-a-un-servidor-segons-de-la-xarxa-que-vinguis
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/11/openssh_logo.png" title="logotip de l&#39;Openssh" class="alignright size-full wp-image-225" width="194" height="191" />](http://gil.badall.net/wp-content/uploads/2007/11/openssh_logo.png)Si tens un servidor que està a la xarxa local amb alguns serveis a Internet evidentment el primer que has de fer és no permetre que l'usuari root es connecti per ssh de manera que el més còmode és anar al fitxer /etc/ssh/sshd_config i afegir-hi la línia ((També és molt útil afegir la línia "PasswordAuthentication no" per no permetre connexions que s'autentiquin amb contrasenya, sinó que ho hagin de fer per clau pública-privada)):
+[<img src="./wp-content/uploads/2007/11/openssh_logo.png" title="logotip de l&#39;Openssh" class="alignright size-full wp-image-225" width="194" height="191" />](http://gil.badall.net/wp-content/uploads/2007/11/openssh_logo.png)Si tens un servidor que està a la xarxa local amb alguns serveis a Internet evidentment el primer que has de fer és no permetre que l'usuari root es connecti per ssh de manera que el més còmode és anar al fitxer /etc/ssh/sshd_config i afegir-hi la línia ((També és molt útil afegir la línia "PasswordAuthentication no" per no permetre connexions que s'autentiquin amb contrasenya, sinó que ho hagin de fer per clau pública-privada)):
 
 > PermitRootLogin no
 

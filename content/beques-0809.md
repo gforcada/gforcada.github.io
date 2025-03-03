@@ -6,7 +6,7 @@ Tags: beca, projecte fi de carrera, UdG
 Slug: beques-0809
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />El curs universitari ja s'acosta i per els que vulguin demanar beca (per fi\[1\]) es pot <a href="https://www.mepsyd.es/becasmec/CiudadanoGenerales.do?COD_CONV=AE" target="_blank" rel="noopener">emplenar còmodament</a> des d'Internet.
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />El curs universitari ja s'acosta i per els que vulguin demanar beca (per fi\[1\]) es pot <a href="https://www.mepsyd.es/becasmec/CiudadanoGenerales.do?COD_CONV=AE" target="_blank" rel="noopener">emplenar còmodament</a> des d'Internet.
 
 Pels que a més estigueu a la <a href="http://www.udg.edu" target="_blank" rel="noopener">UdG</a> veureu que a la gestió de l'expedient podeu entrar-hi el número temporal de beca per a poder-vos matricular amb opció a beca.  Jo ho acabo de descobrir avui per casualitat :)
 

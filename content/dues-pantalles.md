@@ -16,7 +16,7 @@ Així que aquí va la recepta pels que tingueu una pantalla externa velleta. La 
 <p>
 
 <figure>
-<img src="http://gil.badall.net/wp-content/uploads/2009/09/pantalla-externa-300x290.jpg" title="pantalla-externa" class="size-medium wp-image-657" width="300" height="290" alt="La meva pantalla externa" />
+<img src="./wp-content/uploads/2009/09/pantalla-externa-300x290.jpg" title="pantalla-externa" class="size-medium wp-image-657" width="300" height="290" alt="La meva pantalla externa" />
 <figcaption aria-hidden="true">La meva pantalla externa</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ Attachments: wp-content/uploads/2007/08/valentine.png
 
 tot instal·lant programes per la Nokia 800 he vist que hi ha un tema especial per a Sant Valentí, i només instal·lar-lo ja s'aplica, el resultat gens menyspreable!
 
-[![tema valentine per la n800](http://gil.badall.net/wp-content/uploads/2007/08/valentine.thumbnail.png)]({static}wp-content/uploads/2007/08/valentine.png "tema valentine per la n800")
+[![tema valentine per la n800](./wp-content/uploads/2007/08/valentine.thumbnail.png)]({static}wp-content/uploads/2007/08/valentine.png "tema valentine per la n800")
 
 realment hi ha la tira de programes per la n800 ara mateix:
 

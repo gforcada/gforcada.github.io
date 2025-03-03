@@ -6,7 +6,7 @@ Tags: política, psc, viquipèdia
 Slug: la-wikipedia-i-les-eleccions-del-7-de-juliol
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/04/wiki-ca.png" title="logotip de la Viquipèdia commemorant els 300 anys d&#39;Almansa" class="alignright size-full wp-image-102" alt="logotip de la Viquipèdia commemorant els 300 anys d&#39;Almansa" />Tot escoltant [Catalunya Ràdio](http://www.catradio.cat/ "Pàgina web de Catalunya Ràdio"), una de les falques comença:
+<img src="./wp-content/uploads/2007/04/wiki-ca.png" title="logotip de la Viquipèdia commemorant els 300 anys d&#39;Almansa" class="alignright size-full wp-image-102" alt="logotip de la Viquipèdia commemorant els 300 anys d&#39;Almansa" />Tot escoltant [Catalunya Ràdio](http://www.catradio.cat/ "Pàgina web de Catalunya Ràdio"), una de les falques comença:
 
 Segons la Wikipedia Alejo Vidal Quadras ....
 

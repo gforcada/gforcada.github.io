@@ -6,7 +6,7 @@ Tags: estiu, GNOME, guadec, guifi, UdG
 Slug: sense-universitat-ara-que
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />doncs molta feina :)
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />doncs molta feina :)
 
 no ja només en les traduccions del <a href="http://www.gnome.org" target="_blank" rel="noopener">GNOME</a> que ja n'aniré fent, sinó que durant l'estiu en principi haig de treballar en una botiga d'informàtica (encara haig d'acabar-ho de concretar) i a més a més dos esdeveniments en els que haig d'ajudar/col·laborar:
 

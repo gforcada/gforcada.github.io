@@ -6,7 +6,7 @@ Tags: Breda, guifi, Softcatalà, UdG
 Slug: xerrada-a-breda
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" alt="logo guifi" />Tot i que ja un parell de dies tard en deixo constància :)
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" alt="logo guifi" />Tot i que ja un parell de dies tard en deixo constància :)
 
 A [Breda](http://ca.wikipedia.org/wiki/Breda "Article de la Viquipèdia sobre la població de Breda") (l'alter ego de Ventdelplà) aprofiten el pont de l'1 de Maig per fer una fira d'entitats amb atraccions i parades. En el marc d'aquesta fira d'entitats un company de classe de la universitat em va convidar a parlar o bé de [guifi](http://guifi.net "Pàgina web del projecte guifi.net") o bé de [Softcatalà](http://www.softcatala.cat "Pàgina web de l'associació Softcatalà")/programari lliure. Finalment els membres del casal van trobar més interessant que els parlés de guifi i així va ser, dues hores m'hi vaig estar xerrant :D
 

@@ -7,7 +7,7 @@ Slug: copies-de-seguretat-de-levolution
 Status: published
 Attachments: wp-content/uploads/2007/12/evolution.png
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/12/gnomelovelogo.png" data-align="right" alt="logotip del GNOME Love" />des de que es van fer les <a href="http://www.gnome.org/start/2.20/notes/ca/" target="_blank" rel="noopener">notes de llançament</a> del <a href="http://www.gnome.org" target="_blank" rel="noopener">GNOME</a> 2.20 que tenia una espina clavada
+<img src="./wp-content/uploads/2007/12/gnomelovelogo.png" data-align="right" alt="logotip del GNOME Love" />des de que es van fer les <a href="http://www.gnome.org/start/2.20/notes/ca/" target="_blank" rel="noopener">notes de llançament</a> del <a href="http://www.gnome.org" target="_blank" rel="noopener">GNOME</a> 2.20 que tenia una espina clavada
 
 i es que per molt que havia intentat trobar una característica de l'<a href="http://www.gnome.org/projects/evolution/" target="_blank" rel="noopener">Evolution</a> que hi havia en una de les captures de pantalla no hi havia manera
 

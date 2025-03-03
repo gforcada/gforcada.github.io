@@ -6,7 +6,7 @@ Tags: GNOME, GNOME traduccions, indignació
 Slug: no-mes-kazakh-pel-gnome
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png" data-align="right" alt="logotip del GNOME" />O això sembla pel que diu en Christian Rose a la <a href="http://mail.gnome.org/archives/gnome-i18n/2008-July/msg00194.html" target="_blank" rel="noopener">llista del i18n</a>. :(
+<img src="./wp-content/uploads/2008/01/gnomefoot.png" data-align="right" alt="logotip del GNOME" />O això sembla pel que diu en Christian Rose a la <a href="http://mail.gnome.org/archives/gnome-i18n/2008-July/msg00194.html" target="_blank" rel="noopener">llista del i18n</a>. :(
 
 Pels mantes que no volen llegir, la història resumida és:
 

@@ -6,7 +6,7 @@ Tags: actes institucionals, carod-rovira, generalitat, guifi, premis, puigcercó
 Slug: entrega-dels-premis-nacionals
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" data-align="right" alt="logo guifi" />ahir va ser l'entrega i vaig flipar força la veritat ...
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" data-align="right" alt="logo guifi" />ahir va ser l'entrega i vaig flipar força la veritat ...
 
 l'acte es va fer a la <a href="http://home.palaumusica.org/petit_palau/home_cat.html" target="_blank" rel="noopener">sala petita</a> del <a href="http://home.palaumusica.org/" target="_blank" rel="noopener">palau de la música</a>, tot molt protocolari, així tot tocat i posat
 

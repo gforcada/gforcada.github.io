@@ -13,7 +13,7 @@ Attachments: wp-content/uploads/2013/08/lil-IMG_2033-1.jpg
 
 She even attended some talks! :)
 
-[<img src="http://gil.badall.net/wp-content/uploads/2013/08/lil-IMG_2033-1-300x200.jpg" class="aligncenter size-medium wp-image-1527" width="300" height="200" alt="Ona on a talk" />]({static}wp-content/uploads/2013/08/lil-IMG_2033-1.jpg)
+[<img src="./wp-content/uploads/2013/08/lil-IMG_2033-1-300x200.jpg" class="aligncenter size-medium wp-image-1527" width="300" height="200" alt="Ona on a talk" />]({static}wp-content/uploads/2013/08/lil-IMG_2033-1.jpg)
 
 Sadly we only stayed for some days, more to catch with some of you\[1\] and the weather was quite hard for her.
 

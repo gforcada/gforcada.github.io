@@ -6,7 +6,7 @@ Tags: UdG
 Slug: notes-i-linici-del-segon-semestre
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />si fa unes setmanes <a href="?p=282" target="_blank" rel="noopener">acabava els exàmens</a>, ara ja tinc les notes :)
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />si fa unes setmanes <a href="?p=282" target="_blank" rel="noopener">acabava els exàmens</a>, ara ja tinc les notes :)
 
 de física, com ja sabia per tot el que vaig respondre evidentment estic suspés
 

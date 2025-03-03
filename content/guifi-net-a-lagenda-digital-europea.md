@@ -6,7 +6,7 @@ Tags: comissió europea, fundació guifi, guifi
 Slug: guifi-net-a-lagenda-digital-europea
 Status: published
 
-*[<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Long time no blogging ....*
+*[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Long time no blogging ....*
 
 Si fa uns mesos [deia](http://gil.badall.net/2010/10/16/guifi-net-a-la-comissio-europea/ "Entrada al bloc sobre guifi.net a la comissió europea") que la [Comissió Europea](http://ec.europa.eu/index_en.htm "Pàgina web de la comissió europea") havia demanat que [guifi.net](http://guifi.net "Pàgina web del projecte guifi.net") assistís a una sessió a Brusel·les per tal d'explicar la nostra idea de cara a l'[Agenda Digital  2020](http://ec.europa.eu/information_society/digital-agenda/index_en.htm "Pàgina web de la comissió europea sobre l'agenda digital 2020"), ara ja n'han publicat el resultat d'aquelles jornades i resulta que d'entre totes les idees presentades **han seleccionat la de guifi.net**!
 

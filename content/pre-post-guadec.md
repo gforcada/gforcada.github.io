@@ -6,7 +6,7 @@ Tags: alemanya, amsterdam, den haag, GNOME, guadec, köln
 Slug: pre-post-guadec
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/12/guadec.png" title="logotip de la GUADEC" class="alignright size-full wp-image-269" width="91" height="60" />](http://gil.badall.net/wp-content/uploads/2007/12/guadec.png)Com que resumir-ho més detalladament és impossible (massa dies i molt intensos) a veure si amb una llista ho aconsegueixo:
+[<img src="./wp-content/uploads/2007/12/guadec.png" title="logotip de la GUADEC" class="alignright size-full wp-image-269" width="91" height="60" />](http://gil.badall.net/wp-content/uploads/2007/12/guadec.png)Com que resumir-ho més detalladament és impossible (massa dies i molt intensos) a veure si amb una llista ho aconsegueixo:
 
 ## Pre-GUADEC
 

@@ -13,8 +13,8 @@ Com de costum estem ajudant, la Sílvia i jo, a la zona d'acreditacions i inform
 
 Encara no han arribat les bruses, però el que sí que ja hem començat a repartir són les memòries USB!
 
-[<img src="http://gil.badall.net/wp-content/uploads/2010/07/IMG_20100726_211913-300x225.jpg" title="IMG_20100726_211913" class="aligncenter size-medium wp-image-950" width="300" height="225" />]({static}wp-content/uploads/2010/07/IMG_20100726_211913.jpg)
+[<img src="./wp-content/uploads/2010/07/IMG_20100726_211913-300x225.jpg" title="IMG_20100726_211913" class="aligncenter size-medium wp-image-950" width="300" height="225" />]({static}wp-content/uploads/2010/07/IMG_20100726_211913.jpg)
 
-[<img src="http://gil.badall.net/wp-content/uploads/2010/07/IMG_20100726_211852-300x225.jpg" title="IMG_20100726_211852" class="aligncenter size-medium wp-image-949" width="300" height="225" />]({static}wp-content/uploads/2010/07/IMG_20100726_211852.jpg)
+[<img src="./wp-content/uploads/2010/07/IMG_20100726_211852-300x225.jpg" title="IMG_20100726_211852" class="aligncenter size-medium wp-image-949" width="300" height="225" />]({static}wp-content/uploads/2010/07/IMG_20100726_211852.jpg)
 
 L'exterior està fet de bambú!!

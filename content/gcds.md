@@ -12,7 +12,7 @@ As always it has been a crazy week. Meeting lots of old friends and making lots 
 
 Thanks again to the [GNOME Foundation](http://foundation.gnome.org/ "GNOME Foundation's website") for sponsoring us to come to the GCDS!
 
-<img src="http://gil.badall.net/wp-content/uploads/2009/06/sponsored-badge-shadow.png" title="sponsored-badge-shadow" class="aligncenter size-full wp-image-608" width="230" height="230" alt="sponsored-badge-shadow" />It's hard to summarize everything:
+<img src="./wp-content/uploads/2009/06/sponsored-badge-shadow.png" title="sponsored-badge-shadow" class="aligncenter size-full wp-image-608" width="230" height="230" alt="sponsored-badge-shadow" />It's hard to summarize everything:
 
 - I nearly go to two or three meetings (the GNOME 3.0 status, half of the RMS keynote ... )
 - The parties were great, we missed two of them (the Nokia party and the Collabora) but the others (the Canonical and the Igalia's parties) were really great!

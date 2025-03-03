@@ -6,7 +6,7 @@ Tags: mates, robòtica, UdG
 Slug: acabada-la-primera-volta
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />per fi!!
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />per fi!!
 
 avui ja he fet els dos últims exàmens (bé de 3, però els dos últims :), <a href="https://pserv.udg.edu/FitxesAssignatures/VistaPublica.aspx?IdCursAcademic=2007&amp;IdAssignatura=3105IS0012&amp;tab=1" target="_blank" rel="noopener">robòtica</a> i <a href="https://pserv.udg.edu/FitxesAssignatures/VistaPublica.aspx?IdCursAcademic=2007&amp;IdAssignatura=3105II0007&amp;tab=1" target="_blank" rel="noopener">mates</a> i tot i que òbviament no en ser pas encara les notes almenys n'he sortit molt content
 

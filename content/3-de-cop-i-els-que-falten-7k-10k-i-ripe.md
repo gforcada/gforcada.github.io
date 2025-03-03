@@ -6,7 +6,7 @@ Tags: fundació guifi, guifi
 Slug: 3-de-cop-i-els-que-falten-7k-10k-i-ripe
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" alt="logo guifi" />Sembla mentida que només fa un mes i deu dies celebràvem el [cinquè aniversari](http://guifi.net/5aniversari "Pàgina del 5è aniversari de guifi.net") amb el secretari de Telecomunicacions i Societat de la Informació de la Generalitat [destacant lo bé que  ho hem fet durant tots](http://guifi.net/node/21611 "Notícia a guifi.net sobre la presencia del Secretari de Telecomunicacions i Societat de la Informació") aquests anys i ara ja tenim una altre motiu de celebració triple!
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" alt="logo guifi" />Sembla mentida que només fa un mes i deu dies celebràvem el [cinquè aniversari](http://guifi.net/5aniversari "Pàgina del 5è aniversari de guifi.net") amb el secretari de Telecomunicacions i Societat de la Informació de la Generalitat [destacant lo bé que  ho hem fet durant tots](http://guifi.net/node/21611 "Notícia a guifi.net sobre la presencia del Secretari de Telecomunicacions i Societat de la Informació") aquests anys i ara ja tenim una altre motiu de celebració triple!
 
 Els dos primers van molt junts: si seguiu una mica la pàgina de [guifi.net](http://guifi.net "Pàgina web del projecte Guifi.net") us haureu adonat ja que hem arribat als 7000 nodes operatius i als 10000 registrats! Moltes felicitats a tots i totes que ho heu fet possible!!!
 

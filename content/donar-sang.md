@@ -6,7 +6,7 @@ Tags: donar sang, participació ciutadana, pis de girona
 Slug: donar-sang
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />
+<img src="./wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />
 
 tot i que han passat força més de tres mesos\[1\] avui per fi he tornat a anar a donar sang :)
 

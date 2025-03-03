@@ -6,7 +6,7 @@ Tags: GNOME, guadec, istanbul
 Slug: guadec-2008-lanada
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/12/guadec.png" data-align="right" alt="logotip de la GUADEC" /> Com que hi ha molta teca per explicar ho dividiré en 5 parts: viatge d'anada/tornada, pre-GUADEC, GUADEC i post-GUADEC.
+<img src="./wp-content/uploads/2007/12/guadec.png" data-align="right" alt="logotip de la GUADEC" /> Com que hi ha molta teca per explicar ho dividiré en 5 parts: viatge d'anada/tornada, pre-GUADEC, GUADEC i post-GUADEC.
 
 Ja hi ha algunes fotos a la <a href="http://galeria.badall.net" target="_blank" rel="noopener">galeria</a> ;)
 

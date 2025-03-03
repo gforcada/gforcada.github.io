@@ -6,7 +6,7 @@ Tags: document foundation, donatius, libreoffice, programari lliure
 Slug: ajudeu-a-crear-la-document-foundation
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2010/09/logo.png" title="Libreoffice logo" class="alignright size-full wp-image-1015" width="120" height="100" />](http://gil.badall.net/wp-content/uploads/2010/09/logo.png)Des del seu naixement ara farà uns mesos la [Document Foundation](http://www.documentfoundation.org/ "Pàgina web de la Document Foundation") no havia estat constituïda legalment, hi havia molta feina a fer i primer es va decidir que era més important centrar-se en treure una versió del [LibreOffice](http://www.libreoffice.org/ "Pàgina web del LibreOffice").
+[<img src="./wp-content/uploads/2010/09/logo.png" title="Libreoffice logo" class="alignright size-full wp-image-1015" width="120" height="100" />](http://gil.badall.net/wp-content/uploads/2010/09/logo.png)Des del seu naixement ara farà uns mesos la [Document Foundation](http://www.documentfoundation.org/ "Pàgina web de la Document Foundation") no havia estat constituïda legalment, hi havia molta feina a fer i primer es va decidir que era més important centrar-se en treure una versió del [LibreOffice](http://www.libreoffice.org/ "Pàgina web del LibreOffice").
 
 Després de buscar molt, mirar totes les opcions, etc etc s'ha decidit crear una fundació a **Alemanya** i en aquest país es **necessiten com a mínim 50.000€** per crear una fundació, de manera que s'han posat l'objectiu d'aconseguir-los **en 5 setmanes**.
 

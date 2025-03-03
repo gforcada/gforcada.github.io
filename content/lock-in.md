@@ -6,7 +6,7 @@ Tags: cosimir, formats propietaris, microsoft, robòtica, UdG
 Slug: lock-in
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />ahir estava fent la pràctica de robòtica i abans d'espatllar cap robot físic utilitzem un programa de simulació de robots que tu els pots programar
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />ahir estava fent la pràctica de robòtica i abans d'espatllar cap robot físic utilitzem un programa de simulació de robots que tu els pots programar
 
 com de costum el llenguatge és críptic a més no poder però com a mínim no et cal res més que un editor de text com en qualsevol altre llenguatge
 

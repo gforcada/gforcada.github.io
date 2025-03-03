@@ -6,7 +6,7 @@ Tags: bios, debian, grub, guifi, mont-rodon, problemes, servidor proxy, ubuntu
 Slug: grub-error-17
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" data-align="right" alt="logo guifi" />acabo d'instal·lar el que serà el servidor de Mont-rodon (el <a href="http://guifi.net/ca/guifi/device/6748" target="_blank" rel="noopener">Gurri</a>), però m'he trobat que just després d'acabar la instal·lació d'una <a href="http://www.debian.org" target="_blank" rel="noopener">Debian</a> estable i reiniciar el <a href="http://www.gnu.org/software/grub" target="_blank" rel="noopener">Grub</a> em donava l'error número 17
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" data-align="right" alt="logo guifi" />acabo d'instal·lar el que serà el servidor de Mont-rodon (el <a href="http://guifi.net/ca/guifi/device/6748" target="_blank" rel="noopener">Gurri</a>), però m'he trobat que just després d'acabar la instal·lació d'una <a href="http://www.debian.org" target="_blank" rel="noopener">Debian</a> estable i reiniciar el <a href="http://www.gnu.org/software/grub" target="_blank" rel="noopener">Grub</a> em donava l'error número 17
 
 segons <a href="http://www.gnu.org/software/grub/manual/grub.html" target="_blank" rel="noopener">el manual del grub</a> això és perquè tot i que existeixi la partició el grub no sap de quin tipus és
 

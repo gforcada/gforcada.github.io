@@ -6,7 +6,7 @@ Tags: consells, epiphany
 Slug: obrir-molts-url-de-cop-en-una-sola-finestra
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/03/epiphany-64.png" data-align="right" alt="logo de l’epiphany" />Amb l'<a href="http://gnome.org/projects/epiphany/" target="_blank" rel="noopener">Epiphany</a> és molt però que molt fàcil :)
+<img src="./wp-content/uploads/2007/03/epiphany-64.png" data-align="right" alt="logo de l’epiphany" />Amb l'<a href="http://gnome.org/projects/epiphany/" target="_blank" rel="noopener">Epiphany</a> és molt però que molt fàcil :)
 
 epiphany --new-window && epiphany -n *tota la tirallonga d'URL separats per esapis*
 

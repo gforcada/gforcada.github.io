@@ -6,7 +6,7 @@ Tags: GNOME traduccions, Softcatalà
 Slug: el-gnome-3-6-en-catala-depen-de-tu
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" />](http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png)D'aquí poc més d'un mes i mig s'alliberarà el [GNOME 3.6](https://live.gnome.org/ThreePointFive "Calendari de llançament del GNOME 3.6") i com a coordinador de l'[equip de traducció del GNOME](http://l10n.gnome.org/teams/ca/ "Pàgina de l'equip de traducció del GNOME al català") al català, [us demano ajuda](http://llistes.softcatala.org/pipermail/gnome/2012-August/009063.html "Correu de coordinació de la traducció del GNOME 3.6")!
+[<img src="./wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" />](http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png)D'aquí poc més d'un mes i mig s'alliberarà el [GNOME 3.6](https://live.gnome.org/ThreePointFive "Calendari de llançament del GNOME 3.6") i com a coordinador de l'[equip de traducció del GNOME](http://l10n.gnome.org/teams/ca/ "Pàgina de l'equip de traducció del GNOME al català") al català, [us demano ajuda](http://llistes.softcatala.org/pipermail/gnome/2012-August/009063.html "Correu de coordinació de la traducció del GNOME 3.6")!
 
 Si voleu que el GNOME 3.6 estigui en català, ja sabeu què podeu fer en el temps lliure que tingueu des d'ara mateix fins al dia 26 de setembre ;)
 

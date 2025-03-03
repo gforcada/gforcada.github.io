@@ -6,7 +6,7 @@ Tags: donar sang, participació ciutadana
 Slug: amb-una-vegada-no-nhi-ha-prou-3
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />Ja han passat una mica més de <a href="http://gil.badall.net/?p=370" target="_blank" rel="noopener">tres mesos</a> :)
+<img src="./wp-content/uploads/2007/04/logo_portada.gif" data-align="right" alt="logo del banc de sang" />Ja han passat una mica més de <a href="http://gil.badall.net/?p=370" target="_blank" rel="noopener">tres mesos</a> :)
 
 Avui he notat una cosa nova però, la meva sang estava estranyament calenta :D
 

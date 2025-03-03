@@ -6,7 +6,7 @@ Tags: consells, vim
 Slug: desplacar-se-pel-vim
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/12/vimlogo.png" title="logotip del vim" class="alignright size-full wp-image-251" width="48" height="48" alt="logotip del vim" />(Tot en mode control)
+<img src="./wp-content/uploads/2007/12/vimlogo.png" title="logotip del vim" class="alignright size-full wp-image-251" width="48" height="48" alt="logotip del vim" />(Tot en mode control)
 
 - Anar al principi del fitxer: **gg**
 - Anar al final del fitxer: **G**

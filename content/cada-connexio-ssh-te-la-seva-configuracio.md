@@ -6,7 +6,7 @@ Tags: consells, ssh
 Slug: cada-connexio-ssh-te-la-seva-configuracio
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/11/openssh_logo.png" title="logotip de l&#39;Openssh" class="alignright size-full wp-image-225" width="194" height="191" />](http://gil.badall.net/wp-content/uploads/2007/11/openssh_logo.png)No us heu cansat mai de teclejar ssh *usuari@nom-interminable-de-la-maquina-hi-ha-sobre.domini* ?
+[<img src="./wp-content/uploads/2007/11/openssh_logo.png" title="logotip de l&#39;Openssh" class="alignright size-full wp-image-225" width="194" height="191" />](http://gil.badall.net/wp-content/uploads/2007/11/openssh_logo.png)No us heu cansat mai de teclejar ssh *usuari@nom-interminable-de-la-maquina-hi-ha-sobre.domini* ?
 
 Doncs com en tot en el món linux té el seu fitxer de configuració: **~/.ssh/config** (man ssh_config).
 

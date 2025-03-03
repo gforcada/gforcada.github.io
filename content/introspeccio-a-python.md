@@ -6,7 +6,7 @@ Tags: consells, programació, python
 Slug: introspeccio-a-python
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/07/python_logo.png" title="Logotip del Python" class="alignright size-full wp-image-377" width="110" height="110" />Per tenir les dades que genera una aplicació que estic fent amb [Python](http://www.python.org "Lloc web del llenguatge de Programació Python") he escrit un parell de funcions que em permeten tenir un document estructurat (en xml) de totes les dades que es generen\[1\].
+<img src="./wp-content/uploads/2008/07/python_logo.png" title="Logotip del Python" class="alignright size-full wp-image-377" width="110" height="110" />Per tenir les dades que genera una aplicació que estic fent amb [Python](http://www.python.org "Lloc web del llenguatge de Programació Python") he escrit un parell de funcions que em permeten tenir un document estructurat (en xml) de totes les dades que es generen\[1\].
 
 La tècnica de introspecció es basa en aprofitar les meta-dades (per dir-ho d'alguna manera) que tens sobre els objectes que has anat construint en l'aplicació per (dinàmicament) poder-ho formatar d'alguna manera.
 

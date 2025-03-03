@@ -6,7 +6,7 @@ Tags: guifi, trobades
 Slug: trobada-per-millorar-la-web-de-guifi
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)El [dia 23 d'octubre](http://guifi.net/node/33328 "Trobada de guifi.net per millorar la pàgina de guifi.net") (d'aquí dos caps de setmana) es farà a Vic una trobada per tots aquells que estan interessats en millorar la pàgina de guifi.
+[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)El [dia 23 d'octubre](http://guifi.net/node/33328 "Trobada de guifi.net per millorar la pàgina de guifi.net") (d'aquí dos caps de setmana) es farà a Vic una trobada per tots aquells que estan interessats en millorar la pàgina de guifi.
 
 No es tracta d'un redisseny complert de la web, sinó de canviar-li la primera pàgina, el que es veu quan s'accedeix a <http://guifi.net> per fer-lo més senzill, però sobretot **entenedor**.
 

@@ -7,7 +7,7 @@ Slug: instal%c2%b7lar-un-servidor-per-a-guifi-i-fer-lo-accessible-via-tunels-vpn
 Status: published
 Attachments: wp-content/uploads/2007/11/openvpn.jpg
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" data-align="right" alt="logo guifi" />a casa meva (a Mont-rodon, <a href="http://ca.wikipedia.org/wiki/Osona" target="_blank" rel="noopener">Osona</a>) un veí de Mont-rodon que no pot posar-se Internet a casa seva em va demanar de posar-hi l'ADSL de manera que així per <a href="http://guifi.net" target="_blank" rel="noopener">guifi</a> ell es podria connectar a l'ADSL de casa meva i fer-la servir
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" data-align="right" alt="logo guifi" />a casa meva (a Mont-rodon, <a href="http://ca.wikipedia.org/wiki/Osona" target="_blank" rel="noopener">Osona</a>) un veí de Mont-rodon que no pot posar-se Internet a casa seva em va demanar de posar-hi l'ADSL de manera que així per <a href="http://guifi.net" target="_blank" rel="noopener">guifi</a> ell es podria connectar a l'ADSL de casa meva i fer-la servir
 
 així que li vaig demanar un servidor (el <a href="http://guifi.net/guifi/device/6748" target="_blank" rel="noopener">gurri</a>) i mentre el muntava vaig fer-ne <a href="http://guifi.net/ca/proxy-debian" target="_blank" rel="noopener">la guia d'instal·lació</a>\[1\], o millor dit, vaig enllaçar a totes les documentacions que ja hi havia a guifi per tal de muntar el *trencaclosques* :)
 

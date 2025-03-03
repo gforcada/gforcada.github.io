@@ -6,7 +6,7 @@ Tags: n800, pis de girona, UdG
 Slug: he-perdut-lestoig
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />no tinc molt clar si algú me l'ha agafat o m'ha caigut per algun lloc i no l'he sabut trobar, demà que haig de tornar a la <a href="http://www.udg.cat" target="_blank" rel="noopener">universitat</a> ho demanaré a consergeria a veure què em diuen
+<img src="./wp-content/uploads/2008/02/sigles_blau.jpg" data-align="right" alt="logo de la UdG" />no tinc molt clar si algú me l'ha agafat o m'ha caigut per algun lloc i no l'he sabut trobar, demà que haig de tornar a la <a href="http://www.udg.cat" target="_blank" rel="noopener">universitat</a> ho demanaré a consergeria a veure què em diuen
 
 però em fa més furtor de que algú me l'ha agafat que no de perdre'l perquè no m'ha semblat veure'l pel terra i segur que l'havia portat a classe perquè ve hi tenia el boli amb el que estava fent els apunts de robòtica
 

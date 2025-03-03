@@ -9,7 +9,7 @@ Attachments: wp-content/uploads/2013/04/lil-IMG_8179.jpg
 
 That's what the midwife asked me 20 minutes later after Ona ((ocean weave in Catalan, and a friend also told us that means *beautiful* in Euskera)), our first daughter, was born (on April 3th).
 
-[<img src="http://gil.badall.net/wp-content/uploads/2013/04/lil-IMG_8179-300x225.jpg" class="aligncenter size-medium wp-image-1511" width="300" height="225" alt="lil-IMG_8179" />]({static}wp-content/uploads/2013/04/lil-IMG_8179.jpg)
+[<img src="./wp-content/uploads/2013/04/lil-IMG_8179-300x225.jpg" class="aligncenter size-medium wp-image-1511" width="300" height="225" alt="lil-IMG_8179" />]({static}wp-content/uploads/2013/04/lil-IMG_8179.jpg)
 
 [More photos if you wish :)](http://casament.badall.net/?p=364 "More photos of Ona and her parents")
 

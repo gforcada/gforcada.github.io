@@ -6,7 +6,7 @@ Tags: guifi, xarxes
 Slug: i-guifi-creix
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" alt="logo guifi" />La resposta us la podeu respondre vosaltres mateixos si visiteu aquest enllaç:
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" alt="logo guifi" />La resposta us la podeu respondre vosaltres mateixos si visiteu aquest enllaç:
 
 <http://guifi.net/guifi/menu/stats/growthmap>
 

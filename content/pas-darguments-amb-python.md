@@ -6,7 +6,7 @@ Tags: consells, programació, python
 Slug: pas-darguments-amb-python
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/07/python_logo.png" title="Logotip del Python" class="alignright size-full wp-image-377" width="110" height="110" />  
+<img src="./wp-content/uploads/2008/07/python_logo.png" title="Logotip del Python" class="alignright size-full wp-image-377" width="110" height="110" />  
 Per pas d'arguments s'entén que quan crides una funció li dius amb quins valors vols que faci la seva funció.
 
 Per exemple:

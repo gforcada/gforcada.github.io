@@ -6,7 +6,7 @@ Tags: consells, git
 Slug: git-clean-1
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" alt="git-logo" />A vegades després de compilar un programa que t'has baixat per exemple de [git.gnome.org](http://git.gnome.org "Interfície web del sistema de control de versions distribuït del GNOME") vols tornar a deixar-ho tot tal com estava (o sigui una còpia igual del que hi ha publicat a git.gnome.org).
+<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" alt="git-logo" />A vegades després de compilar un programa que t'has baixat per exemple de [git.gnome.org](http://git.gnome.org "Interfície web del sistema de control de versions distribuït del GNOME") vols tornar a deixar-ho tot tal com estava (o sigui una còpia igual del que hi ha publicat a git.gnome.org).
 
 En aquestes ocacions, si el sistema de control de versions és el [git](http://en.wikipedia.org/wiki/Git_(software) "Article de la Wikipedia anglesa sobre el sistema de control de versions distribuït Git") només heu de fer:
 

@@ -7,11 +7,11 @@ Slug: hostl
 Status: published
 Attachments: wp-content/uploads/2008/05/captura-virtualbox.png
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/03/vbox.png" data-align="right" alt="logo del virtualbox" />Si premeu aquesta combinació de tecles quan estigueu en un Windows virtualitzat dins d'un <a href="http://virtualbox.org/" target="_blank" rel="noopener">VirtualBox</a> (i amb les *Guest Additions* instal·lades)us *desapareixerà*\[1\] el Windows però en canvi les finestres que tingueu obertes estaran a l'escriptori.
+<img src="./wp-content/uploads/2008/03/vbox.png" data-align="right" alt="logo del virtualbox" />Si premeu aquesta combinació de tecles quan estigueu en un Windows virtualitzat dins d'un <a href="http://virtualbox.org/" target="_blank" rel="noopener">VirtualBox</a> (i amb les *Guest Additions* instal·lades)us *desapareixerà*\[1\] el Windows però en canvi les finestres que tingueu obertes estaran a l'escriptori.
 
 Un captura val més que mil paraules :)
 
-[![Captura del Virtualbox](http://gil.badall.net/wp-content/uploads/2008/05/captura-virtualbox.thumbnail.png)]({static}wp-content/uploads/2008/05/captura-virtualbox.png "Captura del Virtualbox")
+[![Captura del Virtualbox](./wp-content/uploads/2008/05/captura-virtualbox.thumbnail.png)]({static}wp-content/uploads/2008/05/captura-virtualbox.png "Captura del Virtualbox")
 
 La qual cosa va genial quan vols copiar dades d'una aplicació a l'altre :)\[2\]
 

@@ -6,7 +6,7 @@ Tags: bugs, estadística, openbravo, programació, python
 Slug: arreglar-bugs
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2008/04/ob.gif" title="Openbravo logo" class="alignright size-full wp-image-323" width="220" height="54" />Quan portes setmanes darrere un error que no hi ha manera racional d'explicar-lo i després d'un intensiu des de les 7 de la tarda a pràcticament les 12 de la nit (uff són unes 5 hores!) però l'acabes resolent ... uff no té preu!
+<img src="./wp-content/uploads/2008/04/ob.gif" title="Openbravo logo" class="alignright size-full wp-image-323" width="220" height="54" />Quan portes setmanes darrere un error que no hi ha manera racional d'explicar-lo i després d'un intensiu des de les 7 de la tarda a pràcticament les 12 de la nit (uff són unes 5 hores!) però l'acabes resolent ... uff no té preu!
 
 Això sí, ha sigut difícil trobar-lo el c\*\*\* quan per fi l'he trobat tenir obertes 12 terminals, diferents instàncies del [Meld](http://meld.sourceforge.net/ "Lloc web del Meld, un programa per veure diferències entre fitxers"), uns quants [Gedit](http://live.gnome.org/Gedit "Pàgina a la wiki del GNOME sobre el Gedit, l'editor de text del GNOME"), a saber quantíssimes pàgines web (amb l'[Epiphany](http://live.gnome.org/Epiphany "Pàgina al wiki del GNOME sobre l'Epiphany, el navegador web del GNOME") òbviament :)), etc etc
 

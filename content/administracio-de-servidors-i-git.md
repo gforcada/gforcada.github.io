@@ -6,7 +6,7 @@ Tags: consells, git
 Slug: administracio-de-servidors-i-git
 Status: published
 
-[<img src="http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)Fins que no proves les coses no te n'adones de lo difícil, o fàcil, que és fer-les...
+[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)Fins que no proves les coses no te n'adones de lo difícil, o fàcil, que és fer-les...
 
 Avui havia de fer uns canvis a un dels servidors de la feina i com que eren temes de configuració ... cd /etc
 

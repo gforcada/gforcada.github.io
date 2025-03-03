@@ -6,7 +6,7 @@ Tags: bloc, epiphany, extensions, firefox
 Slug: extensions-per-a-lepiphany
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/03/epiphany-64.png" data-align="right" alt="logo de l’epiphany" />l'altre dia em vaig frustrar perquè no vaig saber com coi s'instal·laven extensions amb l'<a href="http://www.gnome.org/projects/epiphany" target="_blank" rel="noopener">Epiphany</a>, així que avui li he preguntat a la <a href="http://silvia.badall.net" target="_blank" rel="noopener">Sílvia</a> i m'ha donat la resposta :)
+<img src="./wp-content/uploads/2007/03/epiphany-64.png" data-align="right" alt="logo de l’epiphany" />l'altre dia em vaig frustrar perquè no vaig saber com coi s'instal·laven extensions amb l'<a href="http://www.gnome.org/projects/epiphany" target="_blank" rel="noopener">Epiphany</a>, així que avui li he preguntat a la <a href="http://silvia.badall.net" target="_blank" rel="noopener">Sílvia</a> i m'ha donat la resposta :)
 
 s'han de posar els fitxers d'extensió a la carpeta:
 
