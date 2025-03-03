@@ -6,7 +6,7 @@ Tags: consells, GNOME, svn, terminal
 Slug: baixar-el-codi-amb-3-paraules
 Status: published
 
-<img src="./wp-content/uploads/2008/01/subversion.png" data-align="right" alt="logotip del Subversion" />cansat d'haver d'escriure cada dia el *svn co svn+ssh://gforcada@svn.gnome.org/svn/\$mòdul/\$branca \$directori* avui per fi <a href="http://gil.badall.net/wp-content/uploads/2008/02/svnco.sh" target="_blank" rel="noopener">m'he fet un script</a> que només li has de dir el mòdul, la branca i opcionalment el directori (sinó agafa el mateix valor que el mòdul) i llestos ja t'ho baixa :)
+<img src="./wp-content/uploads/2008/01/subversion.png" data-align="right" alt="logotip del Subversion" />cansat d'haver d'escriure cada dia el *svn co svn+ssh://gforcada@svn.gnome.org/svn/\$mòdul/\$branca \$directori* avui per fi <a href="./wp-content/uploads/2008/02/svnco.sh" target="_blank" rel="noopener">m'he fet un script</a> que només li has de dir el mòdul, la branca i opcionalment el directori (sinó agafa el mateix valor que el mòdul) i llestos ja t'ho baixa :)
 
 exemple de crida:
 

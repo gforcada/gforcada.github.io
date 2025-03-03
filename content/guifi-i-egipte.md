@@ -6,7 +6,7 @@ Tags: Egipte, guifi, Internet, participació ciutadana, protestes
 Slug: guifi-i-egipte
 Status: published
 
-[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Sense entrar a valorar-ho el fet és que ara mateix **[Egipte no està connectat a Internet](http://www.vilaweb.cat/noticia/3840839/20110128/govern-egipci-ordena-desconnectar-internet-complet.html "Notícia de Vilaweb sobre el tall de l'accés a Internet a Egipte")**, qualsevol ciutadà d'Egipte no pot accedir a Internet, ja que el govern ha demanat a les grans operadores que tanquin l'aixeta.
+[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](./wp-content/uploads/2007/10/logo-guifi.png)Sense entrar a valorar-ho el fet és que ara mateix **[Egipte no està connectat a Internet](http://www.vilaweb.cat/noticia/3840839/20110128/govern-egipci-ordena-desconnectar-internet-complet.html "Notícia de Vilaweb sobre el tall de l'accés a Internet a Egipte")**, qualsevol ciutadà d'Egipte no pot accedir a Internet, ja que el govern ha demanat a les grans operadores que tanquin l'aixeta.
 
 El curiós del cas és que ni **tan sols permeten el trànsit intern**, o sigui el que no fa falta que surti d'Egipte mateix.
 

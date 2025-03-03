@@ -6,7 +6,7 @@ Tags: consells, git
 Slug: etiquetes-a-git
 Status: published
 
-[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)Això del git està molt bé, però com tot té la seva corba d'aprenentatge :)
+[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](./wp-content/uploads/2009/03/git-logo.png)Això del git està molt bé, però com tot té la seva corba d'aprenentatge :)
 
 Avui ha tocat indagar en les etiquetes (*tags*). N'hi ha de tres tipus:
 

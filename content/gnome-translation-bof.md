@@ -20,5 +20,5 @@ I said *could*, because right now both Damned-Lies and gtranslator are short in 
 
 I can not finish this blog post without giving a big thank you to everyone that came to the BoF, the Foundation Board for their [nice](https://mail.gnome.org/archives/gnome-i18n/2012-July/msg00051.html "Mail from Petr letting everyone know that the Board is inviting us to a dinner") [words](https://mail.gnome.org/archives/gnome-i18n/2012-July/msg00135.html "Mail from Petr letting everyone know that the Board is really happy with our work") and actions and everyone on GUADEC, specially the local team who made an awesome job. You all rock!
 
-[<img src="./wp-content/uploads/2012/05/banner-125.png" title="GUADEC banner" class="aligncenter size-full wp-image-1317" width="125" height="125" />](http://gil.badall.net/wp-content/uploads/2012/05/banner-125.png)  
-[<img src="./wp-content/uploads/2009/06/sponsored-badge-shadow.png" title="sponsored-badge-shadow" class="aligncenter size-full wp-image-608" width="230" height="230" />](http://gil.badall.net/wp-content/uploads/2009/06/sponsored-badge-shadow.png)
+[<img src="./wp-content/uploads/2012/05/banner-125.png" title="GUADEC banner" class="aligncenter size-full wp-image-1317" width="125" height="125" />](./wp-content/uploads/2012/05/banner-125.png)  
+[<img src="./wp-content/uploads/2009/06/sponsored-badge-shadow.png" title="sponsored-badge-shadow" class="aligncenter size-full wp-image-608" width="230" height="230" />](./wp-content/uploads/2009/06/sponsored-badge-shadow.png)

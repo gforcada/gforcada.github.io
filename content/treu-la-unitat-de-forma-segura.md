@@ -6,7 +6,7 @@ Tags: consells, GNOME
 Slug: treu-la-unitat-de-forma-segura
 Status: published
 
-[<img src="./wp-content/uploads/2007/12/gnomelovelogo.png" title="logotip del GNOME Love" class="alignright size-full wp-image-259" width="150" height="150" />](http://gil.badall.net/wp-content/uploads/2007/12/gnomelovelogo.png)La majoria de llapis USB tenen el típic LED que va fent pampalluges quan el tens connectat a l'ordinador i quan el desmuntes en principi ha de parar.
+[<img src="./wp-content/uploads/2007/12/gnomelovelogo.png" title="logotip del GNOME Love" class="alignright size-full wp-image-259" width="150" height="150" />](./wp-content/uploads/2007/12/gnomelovelogo.png)La majoria de llapis USB tenen el típic LED que va fent pampalluges quan el tens connectat a l'ordinador i quan el desmuntes en principi ha de parar.
 
 Tot i així, fins ara, quan els desconnectava del sistema operatiu continuaven fent pampalluges intermitents i sempre m'esperava a que no estigués encès el LED per a treure'l.
 

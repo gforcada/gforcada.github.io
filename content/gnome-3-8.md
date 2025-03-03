@@ -5,7 +5,7 @@ Category: General
 Slug: gnome-3-8
 Status: published
 
-[<img src="./wp-content/uploads/2008/01/gnomefoot.png" class="size-full wp-image-274 alignright" width="122" height="150" alt="logotip del GNOME" />](http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png)Ja fa uns dies que va sortir el [GNOME 3.8](http://www.gnome.org "Pàgina del projecte GNOME")! Les [notes de traducció](https://help.gnome.org/misc/release-notes/3.8/ "Notes de llançament del GNOME 3.8") expliquen algunes de les parts més destacades d'aquesta versió nova.
+[<img src="./wp-content/uploads/2008/01/gnomefoot.png" class="size-full wp-image-274 alignright" width="122" height="150" alt="logotip del GNOME" />](./wp-content/uploads/2008/01/gnomefoot.png)Ja fa uns dies que va sortir el [GNOME 3.8](http://www.gnome.org "Pàgina del projecte GNOME")! Les [notes de traducció](https://help.gnome.org/misc/release-notes/3.8/ "Notes de llançament del GNOME 3.8") expliquen algunes de les parts més destacades d'aquesta versió nova.
 
 Quant a [la traducció al català del GNOME 3.8](https://l10n.gnome.org/languages/ca/gnome-3-8/ui/ "Estadístiques de traducció del GNOME 3.8 al català"), només puc donar els meus sincers agraïments a en **Joan Duran**, gràcies!!!
 

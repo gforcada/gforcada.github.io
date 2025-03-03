@@ -6,7 +6,7 @@ Tags: disseny, guifi, programació web
 Slug: resultat-de-la-trobada-per-la-pagina-de-guifi-net
 Status: published
 
-[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Fa poques hores que ha acabat [la trobada](http://guifi.net/guifi-webdev.20101023.redisseny-web.1 "Nota a l'agenda de guifi.net de la trobada per millorar la web") de desenvolupament per renovar la portada de [guifi.net](http://guifi.net "Pàgina web del projecte guifi.net") i si una cosa ha estat, **és productiva**!
+[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](./wp-content/uploads/2007/10/logo-guifi.png)Fa poques hores que ha acabat [la trobada](http://guifi.net/guifi-webdev.20101023.redisseny-web.1 "Nota a l'agenda de guifi.net de la trobada per millorar la web") de desenvolupament per renovar la portada de [guifi.net](http://guifi.net "Pàgina web del projecte guifi.net") i si una cosa ha estat, **és productiva**!
 
 Després d'estar tot el dia ((es de les 11 del matí fins a les 8 amb pausa per dinar)) discutint noves fórmules de mostrar la pàgina de guifi, mirant què fan les altres pàgines de projectes i donar voltes i voltes a les idees hem acabat amb un pla que ja hem començat a executar:
 

@@ -6,7 +6,7 @@ Tags: consells, git
 Slug: git-rebase-la-historia-sencera
 Status: published
 
-## [<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)Introducció
+## [<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](./wp-content/uploads/2009/03/git-logo.png)Introducció
 
 Si treballeu amb [git](http://en.wikipedia.org/wiki/Git_%28software%29 "Article de la wikipedia anglesa sobre el sistema de control de versins distribuït Git") ja haureu sentit a parlar de l'ordre *rebase*. Per intentar-ho resumir (( [Hi](http://book.git-scm.com/4_rebasing.html) [ha](http://darwinweb.net/articles/the-case-for-git-rebase) [moltíssima](http://www.eecs.harvard.edu/~cduan/technical/git/git-5.shtml) [lectura](http://www.kernel.org/pub/software/scm/git/docs/git-rebase.html) )):
 

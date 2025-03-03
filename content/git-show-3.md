@@ -6,7 +6,7 @@ Tags: consells, git, terminal
 Slug: git-show-3
 Status: published
 
-[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)L'opció *show* del [git](http://git-scm.com/ "Pàgina web del git, el programa de control de versions distribuït") serveix per, tal com indica el nom, mostrar diverses coses, entre elles, i en el 99% dels casos, serà veure els commits ja fets.
+[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](./wp-content/uploads/2009/03/git-logo.png)L'opció *show* del [git](http://git-scm.com/ "Pàgina web del git, el programa de control de versions distribuït") serveix per, tal com indica el nom, mostrar diverses coses, entre elles, i en el 99% dels casos, serà veure els commits ja fets.
 
 Per exemple amb "**git show**" es mostrarà el *diff* de l'últim *commit*.
 

@@ -6,7 +6,7 @@ Tags: feina, git, GNOME, svn
 Slug: migrar-de-subversion-a-git-a-la-gnome
 Status: published
 
-[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)Avui al final m'he decidit a fer la migració d'algunes coses que tenim encara a la feina que estan amb [subversion](http://subversion.tigris.org/ "Lloc web del programa de control de versions subversion") i passar-les a [git](http://git-scm.com/ "Lloc web del programa de control de versions git").
+[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](./wp-content/uploads/2009/03/git-logo.png)Avui al final m'he decidit a fer la migració d'algunes coses que tenim encara a la feina que estan amb [subversion](http://subversion.tigris.org/ "Lloc web del programa de control de versions subversion") i passar-les a [git](http://git-scm.com/ "Lloc web del programa de control de versions git").
 
 Ja feia uns dies havia trobat una petita [guia per fer la migració](http://www.jonmaddox.com/2008/03/05/cleanly-migrate-your-subversion-repository-to-a-git-repository/ "Entrada en un bloc que parla sobre com fer una migració de subversion a git") ((De fet ja ho havia comentat per [identi.ca](http://identi.ca/gforcada "El meu compte d'identi.ca") :D)), però avui quan m'hi he posat m'he trobat que no em funcionava tal com jo volia.
 

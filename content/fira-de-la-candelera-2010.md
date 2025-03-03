@@ -7,7 +7,7 @@ Slug: fira-de-la-candelera-2010
 Status: published
 Attachments: wp-content/uploads/2011/02/triptic_guifi_net.odp, wp-content/uploads/2011/02/triptic_guifi_net.pdf
 
-[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)Aquest cap de setmana passat hi va haver [la Fira de la Candelera](http://www.molinsderei.cat/lacandelera/ "Pàgina web de la fira de la Candelera de Molins de Rei") de [Molins de Rei](http://www.molinsderei.cat "Pàgina web de l'ajuntament de Molins de Rei"). Enguany es celebrava la **160a edició**, poca broma!
+[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](./wp-content/uploads/2007/10/logo-guifi.png)Aquest cap de setmana passat hi va haver [la Fira de la Candelera](http://www.molinsderei.cat/lacandelera/ "Pàgina web de la fira de la Candelera de Molins de Rei") de [Molins de Rei](http://www.molinsderei.cat "Pàgina web de l'ajuntament de Molins de Rei"). Enguany es celebrava la **160a edició**, poca broma!
 
 El cas és que des de l'entitat local ((Tothom en pot fer una al seu poble, només ha d'anar a l'ajuntament, demanar quins són els formularis a emplenar i enviar-ho a la [fundació de guifi.net](http://fundacio.guifi.net "Pàgina web de la fundació guifi.net") perquè ho facin)) de [guifi.net](http://guifi.net "Pàgina web del projecte guifi.net") a Molins de Rei vam demanar un estand a la fira d'entitats i associacions.
 

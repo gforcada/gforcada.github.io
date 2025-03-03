@@ -6,7 +6,7 @@ Tags: dovecot, gentoo, postfix, ssl
 Slug: configurar-un-servidor-de-correu
 Status: published
 
-[<img src="./wp-content/uploads/2007/11/glogo-small.png" title="logotip de gentoo" class="alignright size-full wp-image-224" width="146" height="149" />](http://gil.badall.net/wp-content/uploads/2007/11/glogo-small.png)Avui per fi després de batallar molt he aconseguit fer funcionar el correu que he configurat en el servidor que tenim a casa.
+[<img src="./wp-content/uploads/2007/11/glogo-small.png" title="logotip de gentoo" class="alignright size-full wp-image-224" width="146" height="149" />](./wp-content/uploads/2007/11/glogo-small.png)Avui per fi després de batallar molt he aconseguit fer funcionar el correu que he configurat en el servidor que tenim a casa.
 
 Els programes són [Postfix](http://www.postfix.org "Lloc web del projecte d'SMTP Postfix") i [Dovecot](http://www.dovecot.org/ "Lloc web del projecte d'IMAP i POP Dovecot") (només IMAP). La complexitat ha estat en fer funcionar correctament tant el Postfix com el Dovecot amb SSL.
 

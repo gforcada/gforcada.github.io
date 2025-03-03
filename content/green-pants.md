@@ -7,7 +7,7 @@ Slug: green-pants
 Status: published
 Attachments: wp-content/uploads/2010/07/DSC00525.jpg
 
-[<img src="./wp-content/uploads/2007/12/gnomelovelogo.png" title="logotip del GNOME Love" class="alignright size-full wp-image-259" width="150" height="150" />](http://gil.badall.net/wp-content/uploads/2007/12/gnomelovelogo.png)Tota comunitat té les seves tradicions i la comunitat [GNOME](http://www.gnome.org "Web del projecte GNOME") no podia ser menys i entre una de les moltes que té hi ha la de donar uns "*Thank you pants*" ((Pantalons d'agraïment literalment)) a algú que hagi fet alguna contribució significativa al GNOME.
+[<img src="./wp-content/uploads/2007/12/gnomelovelogo.png" title="logotip del GNOME Love" class="alignright size-full wp-image-259" width="150" height="150" />](./wp-content/uploads/2007/12/gnomelovelogo.png)Tota comunitat té les seves tradicions i la comunitat [GNOME](http://www.gnome.org "Web del projecte GNOME") no podia ser menys i entre una de les moltes que té hi ha la de donar uns "*Thank you pants*" ((Pantalons d'agraïment literalment)) a algú que hagi fet alguna contribució significativa al GNOME.
 
 - A Birmingham (2007) es van donar a en [Federico Mena Quintero](http://en.wikipedia.org/wiki/Federico_Mena_Quintero "Article de la wikipedia anglesa sobre en Federico Mena Quintero") (un dels dos creadors del GNOME)
 - A Instanbul (2008) es van donar a l'[Olav Vitters](http://blogs.gnome.org/ovitters/ "Bloc de l'Olav Vitters") (per tota la seva feina com a coordinador de l'equip d'administració dels servidors)

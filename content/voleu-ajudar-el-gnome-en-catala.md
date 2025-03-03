@@ -6,7 +6,7 @@ Tags: GNOME, GNOME traduccions, Softcatalà
 Slug: voleu-ajudar-el-gnome-en-catala
 Status: published
 
-[<img src="./wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" />](http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png)Ja fa uns dies que va sortir el [GNOME 2.32](http://library.gnome.org/misc/release-notes/2.32/ "Notes de llançament del GNOME 2.32") i la traducció al català **[encara no està al 100%](http://l10n.gnome.org/languages/ca/gnome-2-32/ui/ "Estat de les traduccions del GNOME 2.32 al català")**.
+[<img src="./wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" />](./wp-content/uploads/2008/01/gnomefoot.png)Ja fa uns dies que va sortir el [GNOME 2.32](http://library.gnome.org/misc/release-notes/2.32/ "Notes de llançament del GNOME 2.32") i la traducció al català **[encara no està al 100%](http://l10n.gnome.org/languages/ca/gnome-2-32/ui/ "Estat de les traduccions del GNOME 2.32 al català")**.
 
 Evidentment que no és la situació desitjable, però ens ho hem de prendre com un **repte** en positiu per aconseguir més col·laboradors i sobretot incentivar [els que ja hi ha](http://l10n.gnome.org/teams/ca "Llistat de traductors que s'han apuntat a ajudar a traduir el GNOME al català") ((Baixeu a baix i veureu una llista de 15 a 20 noms))!
 

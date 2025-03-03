@@ -6,7 +6,7 @@ Tags: consells, git, programació
 Slug: commits-parcials-amb-git
 Status: published
 
-[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="size-full wp-image-540 alignright" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)No us ha passat alguna vegada que mentre esteu escrivint alguna funció nova us adoneu que en una altra funció li falla alguna cosa? Llavors què feu? Un *git stash* abans de fer cap canvi a l'altre mètode i un cop el teniu arreglat un *git stash pop*?
+[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="size-full wp-image-540 alignright" width="73" height="28" />](./wp-content/uploads/2009/03/git-logo.png)No us ha passat alguna vegada que mentre esteu escrivint alguna funció nova us adoneu que en una altra funció li falla alguna cosa? Llavors què feu? Un *git stash* abans de fer cap canvi a l'altre mètode i un cop el teniu arreglat un *git stash pop*?
 
 **Ja no cal!**
 

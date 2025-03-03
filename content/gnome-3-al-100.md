@@ -6,7 +6,7 @@ Tags: GNOME traduccions, GNOME-3, Softcatalà
 Slug: gnome-3-al-100
 Status: published
 
-**[<img src="./wp-content/uploads/2007/12/gnomelovelogo.png" title="logotip del GNOME Love" class="alignright size-full wp-image-259" width="150" height="150" />](http://gil.badall.net/wp-content/uploads/2007/12/gnomelovelogo.png)**Per fi jo podem dir:
+**[<img src="./wp-content/uploads/2007/12/gnomelovelogo.png" title="logotip del GNOME Love" class="alignright size-full wp-image-259" width="150" height="150" />](./wp-content/uploads/2007/12/gnomelovelogo.png)**Per fi jo podem dir:
 
 ## [Ja tenim el GNOME 3 al 100%!](http://l10n.gnome.org/teams/ca "Pàgina d'estadístiques del GNOME al català")
 

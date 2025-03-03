@@ -6,7 +6,7 @@ Tags: consells, git, programació
 Slug: sincronitzacio-de-branques-a-git
 Status: published
 
-[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)És *box-populi* que treballar amb branques amb [git](http://git-scm.com/ "Lloc web del programa de control de versions git") és una delícia ja que ho facilita moltíssim: és molt ràpid i les eines que et posa a disposició per treballar-hi fan que sigui molt recomanable fer-ho per a qualsevol canvi que es vulgui fer en el codi d'una aplicació.
+[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](./wp-content/uploads/2009/03/git-logo.png)És *box-populi* que treballar amb branques amb [git](http://git-scm.com/ "Lloc web del programa de control de versions git") és una delícia ja que ho facilita moltíssim: és molt ràpid i les eines que et posa a disposició per treballar-hi fan que sigui molt recomanable fer-ho per a qualsevol canvi que es vulgui fer en el codi d'una aplicació.
 
 Ara bé, quan ja has fet els canvis que volies fer-hi com els sincronitzes cap a la branca master ((Així és com es diu la branca principal a git.)) ?
 

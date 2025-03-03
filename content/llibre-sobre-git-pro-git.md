@@ -6,7 +6,7 @@ Tags: consells, git, meld
 Slug: llibre-sobre-git-pro-git
 Status: published
 
-[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](http://gil.badall.net/wp-content/uploads/2009/03/git-logo.png)Ahir mirant com fer [el rebase](http://gil.badall.net/2010/10/06/git-rebase-la-historia-sencera/ "Entrada en el bloc sobre com fer un rebase") del que vaig parlar em vaig trobar amb una web fantàstica: [Pro Git](http://progit.org/ "Lloc web del llibre Pro Git").
+[<img src="./wp-content/uploads/2009/03/git-logo.png" title="git-logo" class="alignright size-full wp-image-540" width="73" height="28" />](./wp-content/uploads/2009/03/git-logo.png)Ahir mirant com fer [el rebase](http://gil.badall.net/2010/10/06/git-rebase-la-historia-sencera/ "Entrada en el bloc sobre com fer un rebase") del que vaig parlar em vaig trobar amb una web fantàstica: [Pro Git](http://progit.org/ "Lloc web del llibre Pro Git").
 
 Resulta que és la web del [llibre homònim](http://progit.org/book/ "Índex del llibre Pro Git"), on a més a més del llibre sencer també hi van publicant actualitzacions, consells i demés.
 

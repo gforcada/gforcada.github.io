@@ -6,7 +6,7 @@ Tags: guifi, programari lliure, xerrades
 Slug: jornades-de-programari-lliure-a-les-terres-de-lebre
 Status: published
 
-[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png)El pròxim cap de setmana es fan les [jornades de programari lliure a les Terres de l'Ebre](http://territori.blogs.uoc.edu/?p=966&lang=ca "Descripció i detall del programa de les jornades") i m'han convidat a fer la ponència titulada "*Guifi.net i el programari lliure*".
+[<img src="./wp-content/uploads/2007/10/logo-guifi.png" title="logo guifi" class="alignright size-full wp-image-220" width="200" height="58" />](./wp-content/uploads/2007/10/logo-guifi.png)El pròxim cap de setmana es fan les [jornades de programari lliure a les Terres de l'Ebre](http://territori.blogs.uoc.edu/?p=966&lang=ca "Descripció i detall del programa de les jornades") i m'han convidat a fer la ponència titulada "*Guifi.net i el programari lliure*".
 
 Les idees són més que benvingudes :) Tinc una vaga idea de què explicar però segur que amb la vostra ajuda ho podré fer encara molt millor!
 

@@ -6,7 +6,7 @@ Tags: donar sang, participació ciutadana
 Slug: amb-una-vegada-no-nhi-ha-prou-7
 Status: published
 
-[<img src="./wp-content/uploads/2007/04/logo_portada.gif" title="logo del banc de sang" class="alignright size-full wp-image-80" />](http://gil.badall.net/wp-content/uploads/2007/04/logo_portada.gif)I és que ahir, per fi, vaig trobar un autobús mòbil del banc de sang al Clot.
+[<img src="./wp-content/uploads/2007/04/logo_portada.gif" title="logo del banc de sang" class="alignright size-full wp-image-80" />](./wp-content/uploads/2007/04/logo_portada.gif)I és que ahir, per fi, vaig trobar un autobús mòbil del banc de sang al Clot.
 
 Vaig aprofitar l'estona de després de donar sang per fullejar la revista del donant i resulta que a Amèrica del Sud, en comptes d'haver-hi el sistema que fem servir aquí a Catalunya de donació voluntària el que es fa és que si un malalt necessita una transfusió de sang, algun familiar l'ha de proporcionar, de manera que es podria dir que és un sistema JIT (just-in-time).
 

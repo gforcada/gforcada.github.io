@@ -6,7 +6,7 @@ Tags: GNOME, GNOME-3
 Slug: proposta-de-moduls-pel-gnome-3-0
 Status: published
 
-[<img src="./wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" />](http://gil.badall.net/wp-content/uploads/2008/01/gnomefoot.png)Avui s'acaba d'anunciar la [proposta nova de distribució de mòduls](http://mail.gnome.org/archives/devel-announce-list/2010-October/msg00001.html "Correu a la llista anunciant la nova proposta de mòduls") del que serà el **GNOME 3.0**.
+[<img src="./wp-content/uploads/2008/01/gnomefoot.png" title="logotip del GNOME" class="alignright size-full wp-image-274" width="122" height="150" />](./wp-content/uploads/2008/01/gnomefoot.png)Avui s'acaba d'anunciar la [proposta nova de distribució de mòduls](http://mail.gnome.org/archives/devel-announce-list/2010-October/msg00001.html "Correu a la llista anunciant la nova proposta de mòduls") del que serà el **GNOME 3.0**.
 
 Fins ara el GNOME tenia els conjunts de mòduls: d'administració, les eines de desenvolupament, la plataforma i l'escriptori.
 

@@ -6,7 +6,7 @@ Tags: consells, libreoffice, programari lliure
 Slug: com-facilitar-larribada-de-nous-col%c2%b7laboradors
 Status: published
 
-[<img src="./wp-content/uploads/2010/09/logo.png" title="Libreoffice logo" class="alignright size-full wp-image-1015" width="120" height="100" />](http://gil.badall.net/wp-content/uploads/2010/09/logo.png)La majoria de projectes de programari lliure no tenen una o diverses empreses a darrere que els permeti desenvolupar el programari tant ràpid com vulguin i afegir totes les funcions que voldrien.
+[<img src="./wp-content/uploads/2010/09/logo.png" title="Libreoffice logo" class="alignright size-full wp-image-1015" width="120" height="100" />](./wp-content/uploads/2010/09/logo.png)La majoria de projectes de programari lliure no tenen una o diverses empreses a darrere que els permeti desenvolupar el programari tant ràpid com vulguin i afegir totes les funcions que voldrien.
 
 És més, per molt que en tinguin fins i tot llavors els interessa desenvolupar una comunitat de desenvolupadors, dissenyadors, traductors, grafistes, administradors, etc etc per tal que el projecte per si sol tingui molta més força, independentment dels recursos que la empresa hi pugui destinar.
 
