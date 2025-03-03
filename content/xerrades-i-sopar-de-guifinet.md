@@ -6,7 +6,7 @@ Tags: fundació guifi, guifi, sopars, trobades
 Slug: xerrades-i-sopar-de-guifinet
 Status: published
 
-<img src="http://gil.badall.net/wp-content/uploads/2007/10/logo-guifi.png" data-align="right" alt="logo guifi" />Al final no es va fer el dia 15 (<a href="http://gil.badall.net/?p=415" target="_blank" rel="noopener">com deia en un apunt anterior</a>) sinó que es farà (i aquest cop sí) aquest dissabte.
+<img src="./wp-content/uploads/2007/10/logo-guifi.png" data-align="right" alt="logo guifi" />Al final no es va fer el dia 15 (<a href="http://gil.badall.net/?p=415" target="_blank" rel="noopener">com deia en un apunt anterior</a>) sinó que es farà (i aquest cop sí) aquest dissabte.
 
 A més hi haurà xerrades i tallers durant la tarda per acabar fent un sopar, i els que vulguin, es poden quedar a dormir i esmorzar fins i tot.
 
